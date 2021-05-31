@@ -1,43 +1,50 @@
-[{
-					"id":"35",
-					"name":"MACHETE",
-					"full_name":"Machete",
-					"image":"http://localhost/pubg_api/images/all/machete.png",
-					"damage":"60",
-					"capacity":"0"
-				},{
-					"id":"36",
-					"name":"CROWBAR",
-					"full_name":"Crowbar",
-					"image":"http://localhost/pubg_api/images/all/crowbar.png",
-					"damage":"60",
-					"capacity":"0"
-				},{
-					"id":"37",
-					"name":"SICKLE",
-					"full_name":"Sickle",
-					"image":"http://localhost/pubg_api/images/all/sickle.png",
-					"damage":"18",
-					"capacity":"0"
-				},{
-					"id":"38",
-					"name":"PAN",
-					"full_name":"Pan",
-					"image":"http://localhost/pubg_api/images/all/pan.png",
-					"damage":"80",
-					"capacity":"0"
-				},{
-					"id":"46",
-					"name":"PUNCH",
-					"full_name":"Punch",
-					"image":"http://localhost/pubg_api/images/all/punch.png",
-					"damage":"18",
-					"capacity":"0"
-				},{
-					"id":"47",
-					"name":"JUMP-PUNCH",
-					"full_name":"Jump Punch",
-					"image":"http://localhost/pubg_api/images/all/jump-punch.png",
-					"damage":"38",
-					"capacity":"0"
-				}]
+[
+  {
+    "id": "35",
+    "name": "MACHETE",
+    "full_name": "Machete",
+    "image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/machete.png",
+    "damage": "60",
+    "capacity": "0"
+  },
+  {
+    "id": "36",
+    "name": "CROWBAR",
+    "full_name": "Crowbar",
+    "image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/crowbar.png",
+    "damage": "60",
+    "capacity": "0"
+  },
+  {
+    "id": "37",
+    "name": "SICKLE",
+    "full_name": "Sickle",
+    "image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/sickle.png",
+    "damage": "18",
+    "capacity": "0"
+  },
+  {
+    "id": "38",
+    "name": "PAN",
+    "full_name": "Pan",
+    "image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/pan.png",
+    "damage": "80",
+    "capacity": "0"
+  },
+  {
+    "id": "46",
+    "name": "PUNCH",
+    "full_name": "Punch",
+    "image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/punch.png",
+    "damage": "18",
+    "capacity": "0"
+  },
+  {
+    "id": "47",
+    "name": "JUMP-PUNCH",
+    "full_name": "Jump Punch",
+    "image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/jump-punch.png",
+    "damage": "38",
+    "capacity": "0"
+  }
+]
