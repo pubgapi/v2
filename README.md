@@ -10,7 +10,7 @@ Open-Source PUBG API for all pubg items likes weapons, ammos, maps, consumables 
 There is all API likes for all items
 
 | API  |  Item  |  example  |
-| ------------ | ------------ |
+| ------------ | ------------ | ------------ |
 | api/cats  | All weapon category  | --
 | api/cat/weapon_category  | All weapons of category  | api/cat/spiner
 | api/ammo  | All ammo details with used gun  | --
