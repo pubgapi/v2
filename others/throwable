@@ -1,43 +1,56 @@
-[{
-					"id":"35",
-					"name":"MACHETE",
-					"full_name":"Machete",
-					"image":"https://raw.githubusercontent.com/pubgapi/v1/main/images/all/machete.png",
-					"damage":"60",
-					"capacity":"0"
-				},{
-					"id":"36",
-					"name":"CROWBAR",
-					"full_name":"Crowbar",
-					"image":"https://raw.githubusercontent.com/pubgapi/v1/main/images/all/crowbar.png",
-					"damage":"60",
-					"capacity":"0"
-				},{
-					"id":"37",
-					"name":"SICKLE",
-					"full_name":"Sickle",
-					"image":"https://raw.githubusercontent.com/pubgapi/v1/main/images/all/sickle.png",
-					"damage":"18",
-					"capacity":"0"
-				},{
-					"id":"38",
-					"name":"PAN",
-					"full_name":"Pan",
-					"image":"https://raw.githubusercontent.com/pubgapi/v1/main/images/all/pan.png",
-					"damage":"80",
-					"capacity":"0"
-				},{
-					"id":"46",
-					"name":"PUNCH",
-					"full_name":"Punch",
-					"image":"https://raw.githubusercontent.com/pubgapi/v1/main/images/all/punch.png",
-					"damage":"18",
-					"capacity":"0"
-				},{
-					"id":"47",
-					"name":"JUMP-PUNCH",
-					"full_name":"Jump Punch",
-					"image":"https://raw.githubusercontent.com/pubgapi/v1/main/images/all/jump-punch.png",
-					"damage":"38",
-					"capacity":"0"
-				}]
+[
+	{
+		"id": "40",
+		"name": "GRANADE",
+		"full_name": "Granade",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/granade.png",
+		"throwtime": "1.30s",
+		"friction": "0.62s",
+		"weight": "14"
+	},
+	{
+		"id": "41",
+		"name": "MOLTOVE",
+		"full_name": "Moltov",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/moltov.png",
+		"throwtime": "0.85s",
+		"friction": "20s",
+		"weight": "1"
+	},
+	{
+		"id": "42",
+		"name": "SMOKE",
+		"full_name": "Smoke Granade",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/smoke.png",
+		"throwtime": "1.30s",
+		"friction": "0.60s",
+		"weight": "14"
+	},
+	{
+		"id": "43",
+		"name": "STUN",
+		"full_name": "Stun Granade",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/stun.png",
+		"throwtime": "1.30s",
+		"friction": "0.80s",
+		"weight": "12"
+	},
+	{
+		"id": "48",
+		"name": "APPLE",
+		"full_name": "Apple",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/apple.png",
+		"throwtime": "1.30s",
+		"friction": "0.35s",
+		"weight": "1"
+	},
+	{
+		"id": "49",
+		"name": "SNOW-BALL",
+		"full_name": "Snow Ball",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/snow-ball.png",
+		"throwtime": "1.30s",
+		"friction": "0.00s",
+		"weight": "1"
+	}
+]

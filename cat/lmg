@@ -1,1 +1,56 @@
-[{"id":"26","name":"M249","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/m249.png","short_description":"The M249 light machine gun, formerly designated the M249 Squad Automatic Weapon","bullet_type":"5.56mm","without_mag":"75","with_mag":"150","fire_modes":"Auto","damage":"45","bullet_speed":"915m\/s","impact":"10000","pickup_delay":"150ms","ready_delay":"500ms","normal_reload":"7.1s","quick_reload":"3s","attach":{"bullet":[{"name":"5.56mm","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/5_56mm.png"}],"attach":[]}},{"id":"27","name":"DP-28","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/dp28.png","short_description":"","bullet_type":"7.62mm","without_mag":"47","with_mag":"Not Support","fire_modes":"Single\/Auto","damage":"51","bullet_speed":"715m\/s","impact":"10000","pickup_delay":"150ms","ready_delay":"400ms","normal_reload":"5.5s","quick_reload":"4.5s","attach":{"bullet":[{"name":"7.62mm","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/7_62mm.png"}],"attach":[]}}]
+[
+	{
+		"id": "26",
+		"name": "M249",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/m249.png",
+		"short_description": "The M249 light machine gun, formerly designated the M249 Squad Automatic Weapon",
+		"bullet_type": "5.56mm",
+		"without_mag": "75",
+		"with_mag": "150",
+		"fire_modes": "Auto",
+		"damage": "45",
+		"bullet_speed": "915m\/s",
+		"impact": "10000",
+		"pickup_delay": "150ms",
+		"ready_delay": "500ms",
+		"normal_reload": "7.1s",
+		"quick_reload": "3s",
+		"attach": {
+			"bullet": [
+				{
+					"name": "5.56mm",
+					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/5_56mm.png"
+				}
+			],
+			"attach": [
+			]
+		}
+	},
+	{
+		"id": "27",
+		"name": "DP-28",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/dp28.png",
+		"short_description": "",
+		"bullet_type": "7.62mm",
+		"without_mag": "47",
+		"with_mag": "Not Support",
+		"fire_modes": "Single\/Auto",
+		"damage": "51",
+		"bullet_speed": "715m\/s",
+		"impact": "10000",
+		"pickup_delay": "150ms",
+		"ready_delay": "400ms",
+		"normal_reload": "5.5s",
+		"quick_reload": "4.5s",
+		"attach": {
+			"bullet": [
+				{
+					"name": "7.62mm",
+					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/7_62mm.png"
+				}
+			],
+			"attach": [
+			]
+		}
+	}
+]

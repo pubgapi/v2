@@ -1,1 +1,89 @@
-[{"name":"Motorcycle Helmet (Lv-1)","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/helmet-lv1.png","short_des":"It will reduce your head damage by 30%","long_des":"It will reduce your head damage by 30%","url":"helmet-1","level":"1","armor":"80","damage_reduction":"30%"},{"name":"Military Helmet (Lv-2)","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/helmet-lv2.png","short_des":"It will reduce your head damage by 40%","long_des":"It will reduce your head damage by 40%","url":"helmet-2","level":"2","armor":"150","damage_reduction":"40%"},{"name":"Spetsnaz Helmet (Lv-3)","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/helmet-lv3.png","short_des":"It will reduce your head damage by 55%","long_des":"It will reduce your head damage by 55%","url":"helmet-3","level":"3","armor":"230","damage_reduction":"55%"},{"name":"Bag Pack (Lv-1)","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/bag-pack-lv1.png","short_des":"","long_des":"","url":"bag-1","level":"1","capacity":"+150"},{"name":"Bag Pack (Lv-2)","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/bag-pack-lv2.png","short_des":"","long_des":"","url":"bag-2","level":"2","capacity":"+200"},{"name":"Bag Pack (Lv-3)","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/bag-pack-lv3.png","short_des":"","long_des":"","url":"bag-3","level":"3","capacity":"+250"},{"name":"Police Vest (Lv-1)","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/vest-lv1.png","short_des":"It will reduce your damage by 30%","long_des":"It will reduce your damage by 30%","url":"vest-1","level":"1","armor":"220","damage_reduction":"30%"},{"name":"Police Vest (Lv-2)","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/vest-lv2.png","short_des":"It will reduce your damage by 40%","long_des":"It will reduce your damage by 40%","url":"vest-2","level":"2","armor":"220","damage_reduction":"40%"},{"name":"Military Vest (Lv-3)","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/vest-lv3.png","short_des":"It will reduce your damage by 55%","long_des":"It will reduce your damage by 55%","url":"vest-3","level":"3","armor":"250","damage_reduction":"55%"}]
+[
+	{
+		"name": "Motorcycle Helmet (Lv-1)",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/helmet-lv1.png",
+		"short_des": "It will reduce your head damage by 30%",
+		"long_des": "It will reduce your head damage by 30%",
+		"url": "helmet-1",
+		"level": "1",
+		"armor": "80",
+		"damage_reduction": "30%"
+	},
+	{
+		"name": "Military Helmet (Lv-2)",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/helmet-lv2.png",
+		"short_des": "It will reduce your head damage by 40%",
+		"long_des": "It will reduce your head damage by 40%",
+		"url": "helmet-2",
+		"level": "2",
+		"armor": "150",
+		"damage_reduction": "40%"
+	},
+	{
+		"name": "Spetsnaz Helmet (Lv-3)",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/helmet-lv3.png",
+		"short_des": "It will reduce your head damage by 55%",
+		"long_des": "It will reduce your head damage by 55%",
+		"url": "helmet-3",
+		"level": "3",
+		"armor": "230",
+		"damage_reduction": "55%"
+	},
+	{
+		"name": "Bag Pack (Lv-1)",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/bag-pack-lv1.png",
+		"short_des": "",
+		"long_des": "",
+		"url": "bag-1",
+		"level": "1",
+		"capacity": "+150"
+	},
+	{
+		"name": "Bag Pack (Lv-2)",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/bag-pack-lv2.png",
+		"short_des": "",
+		"long_des": "",
+		"url": "bag-2",
+		"level": "2",
+		"capacity": "+200"
+	},
+	{
+		"name": "Bag Pack (Lv-3)",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/bag-pack-lv3.png",
+		"short_des": "",
+		"long_des": "",
+		"url": "bag-3",
+		"level": "3",
+		"capacity": "+250"
+	},
+	{
+		"name": "Police Vest (Lv-1)",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/vest-lv1.png",
+		"short_des": "It will reduce your damage by 30%",
+		"long_des": "It will reduce your damage by 30%",
+		"url": "vest-1",
+		"level": "1",
+		"armor": "220",
+		"damage_reduction": "30%"
+	},
+	{
+		"name": "Police Vest (Lv-2)",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/vest-lv2.png",
+		"short_des": "It will reduce your damage by 40%",
+		"long_des": "It will reduce your damage by 40%",
+		"url": "vest-2",
+		"level": "2",
+		"armor": "220",
+		"damage_reduction": "40%"
+	},
+	{
+		"name": "Military Vest (Lv-3)",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/vest-lv3.png",
+		"short_des": "It will reduce your damage by 55%",
+		"long_des": "It will reduce your damage by 55%",
+		"url": "vest-3",
+		"level": "3",
+		"armor": "250",
+		"damage_reduction": "55%"
+	}
+]

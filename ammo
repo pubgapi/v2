@@ -1,1 +1,313 @@
-[{"ammo":{"id":"59","name":".45 ACP","short_des":"The .45 ACP, or .45 Auto is a handgun cartridge designed by John Browning in 1905","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/45acp.png","useon":"Win94,Thompson SMG,UMP45,R45,P1911,Desert Eagle","capacity":"0.4"},"guns":[{"id":"12","name":"Win94","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/win94.png"},{"id":"22","name":"Thompson SMG","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/thompson.png"},{"id":"20","name":"UMP45","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/ump9.png"},{"id":"32","name":"R45","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/r45.png"},{"id":"29","name":"P1911","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/p1911.png"},{"id":"55","name":"Desert Eagle","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/Desert-eagle.png"}]},{"ammo":{"id":"60","name":"9mm","short_des":"9mm Ammunition, properly referred to as the 9x19mm Parabellum Cartridge, was designed by Georg Luger and introduced in 1902 by the German weapons manufacturer Deutsche Waffen- und Munitionsfabriken for the Luger series of pistols. Its low cost and widespread availability has lead it to become the world's most popular pistol cartridge.","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/9mm.png","useon":"VSS,Vector,UZI,P18C,P92,MP5K,PP-19 Bizon,P90,Skorpion","capacity":"0.3"},"guns":[{"id":"14","name":"VSS","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/vss.png"},{"id":"21","name":"Vector","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/vector.png"},{"id":"19","name":"UZI","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/uzi.png"},{"id":"31","name":"P18C","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/p18c.png"},{"id":"28","name":"P92","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/p92.png"},{"id":"51","name":"MP5K","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/Icon_weapon_MP5K.png"},{"id":"52","name":"PP-19 Bizon","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/Icon_weapon_PP-19_Bizon.png"},{"id":"53","name":"P90","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/p90.png"},{"id":"54","name":"Skorpion","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/Icon_weapon_Skorpion.png"}]},{"ammo":{"id":"61","name":"7.62mm","short_des":"7.62 mm caliber is a nominal caliber used for a number of different cartridges.","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/7_62mm.png","useon":"MK14,M24,SKS,Kar98K,DP-28,M762,Groza,SLR,MK47-Mutant,AKM,R1895","capacity":"0.7"},"guns":[{"id":"16","name":"MK14","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/mk14.png"},{"id":"10","name":"M24","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/m24.png"},{"id":"13","name":"SKS","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/sks.png"},{"id":"9","name":"Kar98K","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/kar98k.png"},{"id":"27","name":"DP-28","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/dp28.png"},{"id":"8","name":"M762","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/m762.png"},{"id":"5","name":"Groza","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/groza.png"},{"id":"17","name":"SLR","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/slr.png"},{"id":"44","name":"MK47-Mutant","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/mk47.png"},{"id":"1","name":"AKM","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/akm.png"},{"id":"30","name":"R1895","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/r1895.png"}]},{"ammo":{"id":"62","name":"5.56mm","short_des":"The 5.56mm cartridge is a NATO round chambered as an intermediate cartridge for the M16 rifle. It was based on the .223 Remington, with differences significant enough to adopt a new nomenclature and classification rather than a custom casing classification.","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/5_56mm.png","useon":"M249,Aug-A3,QBZ,QBU,Mini 14,M416,Scar-L,M16A4,G36C","capacity":"0.5"},"guns":[{"id":"26","name":"M249","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/m249.png"},{"id":"6","name":"AUG-A3","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/aug.png"},{"id":"7","name":"QBZ","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/qbz.png"},{"id":"18","name":"QBU","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/qbu.png"},{"id":"15","name":"Mini 14","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/mini14.png"},{"id":"4","name":"M416","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/m416.png"},{"id":"3","name":"Scar-L","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/scar-l.png"},{"id":"2","name":"M16A4","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/m16a4.png"},{"id":"45","name":"G36C","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/g36c.png"}]},{"ammo":{"id":"63","name":"12 Gauge","short_des":"The 12 gauge shotgun shell is ammunition for the S686, S1897, S12K, Sawed-off, DBS shotgun. Loaded with standard #00 buckshot, 12 gauge shells are fairly common, always found in boxes of 10 shells each, as standalone boxes or several boxes in a group. They may also be found together with a shotgun.","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/12-gauge.png","useon":"S12K,S1897,S686,Sawed-off,DBS","capacity":"1.2"},"guns":[{"id":"25","name":"S12K","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/s12k.png"},{"id":"24","name":"S1897","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/s1897.png"},{"id":"23","name":"S686","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/s686.png"},{"id":"33","name":"Sawed-off","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/sawed-off.png"},{"id":"50","name":"DBS","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/dbs.png"}]},{"ammo":{"id":"64","name":".300 Magnum","short_des":"The .300 Winchester Magnum is a 7.62x67mm belted and bottlenecked magnum rifle cartridge. It was originally introduced by the Winchester Repeating Arms Company in 1963 as part of a family of Winchester Magnum cartridges, and has seen widespread popularity from hunters to soldiers due to its high velocity, low bullet drop and ability to retain energy at long ranges.","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/_300-magnum.png","useon":"AWM","capacity":"1"},"guns":[{"id":"11","name":"AWM","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/awm.png"}]},{"ammo":{"id":"65","name":"Bolt","short_des":"Fiberglass crossbow bolts used for the Crossbow.","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/bolt.png","useon":"Crossbow","capacity":"2"},"guns":[{"id":"39","name":"Crossbow","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/crossbow.png"}]},{"ammo":{"id":"67","name":"Flare","short_des":"A signal round used by the Flare Gun to call in an Air Drop.","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/flare-ammo.png","useon":"Flare Gun","capacity":"0.5"},"guns":[{"id":"34","name":"Flare Gun","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/flare.png"}]}]
+[
+	{
+		"ammo": {
+			"id": "59",
+			"name": ".45 ACP",
+			"short_des": "The .45 ACP, or .45 Auto is a handgun cartridge designed by John Browning in 1905",
+			"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/45acp.png",
+			"useon": "Win94,Thompson SMG,UMP45,R45,P1911,Desert Eagle",
+			"capacity": "0.4"
+		},
+		"guns": [
+			{
+				"id": "12",
+				"name": "Win94",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/win94.png"
+			},
+			{
+				"id": "22",
+				"name": "Thompson SMG",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/thompson.png"
+			},
+			{
+				"id": "20",
+				"name": "UMP45",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/ump9.png"
+			},
+			{
+				"id": "32",
+				"name": "R45",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/r45.png"
+			},
+			{
+				"id": "29",
+				"name": "P1911",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/p1911.png"
+			},
+			{
+				"id": "55",
+				"name": "Desert Eagle",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/Desert-eagle.png"
+			}
+		]
+	},
+	{
+		"ammo": {
+			"id": "60",
+			"name": "9mm",
+			"short_des": "9mm Ammunition, properly referred to as the 9x19mm Parabellum Cartridge, was designed by Georg Luger and introduced in 1902 by the German weapons manufacturer Deutsche Waffen- und Munitionsfabriken for the Luger series of pistols. Its low cost and widespread availability has lead it to become the world's most popular pistol cartridge.",
+			"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/9mm.png",
+			"useon": "VSS,Vector,UZI,P18C,P92,MP5K,PP-19 Bizon,P90,Skorpion",
+			"capacity": "0.3"
+		},
+		"guns": [
+			{
+				"id": "14",
+				"name": "VSS",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/vss.png"
+			},
+			{
+				"id": "21",
+				"name": "Vector",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/vector.png"
+			},
+			{
+				"id": "19",
+				"name": "UZI",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/uzi.png"
+			},
+			{
+				"id": "31",
+				"name": "P18C",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/p18c.png"
+			},
+			{
+				"id": "28",
+				"name": "P92",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/p92.png"
+			},
+			{
+				"id": "51",
+				"name": "MP5K",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/Icon_weapon_MP5K.png"
+			},
+			{
+				"id": "52",
+				"name": "PP-19 Bizon",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/Icon_weapon_PP-19_Bizon.png"
+			},
+			{
+				"id": "53",
+				"name": "P90",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/p90.png"
+			},
+			{
+				"id": "54",
+				"name": "Skorpion",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/Icon_weapon_Skorpion.png"
+			}
+		]
+	},
+	{
+		"ammo": {
+			"id": "61",
+			"name": "7.62mm",
+			"short_des": "7.62 mm caliber is a nominal caliber used for a number of different cartridges.",
+			"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/7_62mm.png",
+			"useon": "MK14,M24,SKS,Kar98K,DP-28,M762,Groza,SLR,MK47-Mutant,AKM,R1895",
+			"capacity": "0.7"
+		},
+		"guns": [
+			{
+				"id": "16",
+				"name": "MK14",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/mk14.png"
+			},
+			{
+				"id": "10",
+				"name": "M24",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/m24.png"
+			},
+			{
+				"id": "13",
+				"name": "SKS",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/sks.png"
+			},
+			{
+				"id": "9",
+				"name": "Kar98K",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/kar98k.png"
+			},
+			{
+				"id": "27",
+				"name": "DP-28",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/dp28.png"
+			},
+			{
+				"id": "8",
+				"name": "M762",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/m762.png"
+			},
+			{
+				"id": "5",
+				"name": "Groza",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/groza.png"
+			},
+			{
+				"id": "17",
+				"name": "SLR",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/slr.png"
+			},
+			{
+				"id": "44",
+				"name": "MK47-Mutant",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/mk47.png"
+			},
+			{
+				"id": "1",
+				"name": "AKM",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/akm.png"
+			},
+			{
+				"id": "30",
+				"name": "R1895",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/r1895.png"
+			}
+		]
+	},
+	{
+		"ammo": {
+			"id": "62",
+			"name": "5.56mm",
+			"short_des": "The 5.56mm cartridge is a NATO round chambered as an intermediate cartridge for the M16 rifle. It was based on the .223 Remington, with differences significant enough to adopt a new nomenclature and classification rather than a custom casing classification.",
+			"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/5_56mm.png",
+			"useon": "M249,Aug-A3,QBZ,QBU,Mini 14,M416,Scar-L,M16A4,G36C",
+			"capacity": "0.5"
+		},
+		"guns": [
+			{
+				"id": "26",
+				"name": "M249",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/m249.png"
+			},
+			{
+				"id": "6",
+				"name": "AUG-A3",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/aug.png"
+			},
+			{
+				"id": "7",
+				"name": "QBZ",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/qbz.png"
+			},
+			{
+				"id": "18",
+				"name": "QBU",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/qbu.png"
+			},
+			{
+				"id": "15",
+				"name": "Mini 14",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/mini14.png"
+			},
+			{
+				"id": "4",
+				"name": "M416",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/m416.png"
+			},
+			{
+				"id": "3",
+				"name": "Scar-L",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/scar-l.png"
+			},
+			{
+				"id": "2",
+				"name": "M16A4",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/m16a4.png"
+			},
+			{
+				"id": "45",
+				"name": "G36C",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/g36c.png"
+			}
+		]
+	},
+	{
+		"ammo": {
+			"id": "63",
+			"name": "12 Gauge",
+			"short_des": "The 12 gauge shotgun shell is ammunition for the S686, S1897, S12K, Sawed-off, DBS shotgun. Loaded with standard #00 buckshot, 12 gauge shells are fairly common, always found in boxes of 10 shells each, as standalone boxes or several boxes in a group. They may also be found together with a shotgun.",
+			"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/12-gauge.png",
+			"useon": "S12K,S1897,S686,Sawed-off,DBS",
+			"capacity": "1.2"
+		},
+		"guns": [
+			{
+				"id": "25",
+				"name": "S12K",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/s12k.png"
+			},
+			{
+				"id": "24",
+				"name": "S1897",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/s1897.png"
+			},
+			{
+				"id": "23",
+				"name": "S686",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/s686.png"
+			},
+			{
+				"id": "33",
+				"name": "Sawed-off",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/sawed-off.png"
+			},
+			{
+				"id": "50",
+				"name": "DBS",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/dbs.png"
+			}
+		]
+	},
+	{
+		"ammo": {
+			"id": "64",
+			"name": ".300 Magnum",
+			"short_des": "The .300 Winchester Magnum is a 7.62x67mm belted and bottlenecked magnum rifle cartridge. It was originally introduced by the Winchester Repeating Arms Company in 1963 as part of a family of Winchester Magnum cartridges, and has seen widespread popularity from hunters to soldiers due to its high velocity, low bullet drop and ability to retain energy at long ranges.",
+			"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/_300-magnum.png",
+			"useon": "AWM",
+			"capacity": "1"
+		},
+		"guns": [
+			{
+				"id": "11",
+				"name": "AWM",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/awm.png"
+			}
+		]
+	},
+	{
+		"ammo": {
+			"id": "65",
+			"name": "Bolt",
+			"short_des": "Fiberglass crossbow bolts used for the Crossbow.",
+			"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/bolt.png",
+			"useon": "Crossbow",
+			"capacity": "2"
+		},
+		"guns": [
+			{
+				"id": "39",
+				"name": "Crossbow",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/crossbow.png"
+			}
+		]
+	},
+	{
+		"ammo": {
+			"id": "67",
+			"name": "Flare",
+			"short_des": "A signal round used by the Flare Gun to call in an Air Drop.",
+			"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/flare-ammo.png",
+			"useon": "Flare Gun",
+			"capacity": "0.5"
+		},
+		"guns": [
+			{
+				"id": "34",
+				"name": "Flare Gun",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/flare.png"
+			}
+		]
+	}
+]

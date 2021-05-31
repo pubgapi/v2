@@ -1,1 +1,27 @@
-[{"category":"Foregrip","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/assets-images\/foregrip.png","source":"https://raw.githubusercontent.com/pubgapi/v1/main\/attach\/foregrip"},{"category":"Magzine","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/assets-images\/magzine.png","source":"https://raw.githubusercontent.com/pubgapi/v1/main\/attach\/magzine"},{"category":"Muzzle","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/assets-images\/muzzle.png","source":"https://raw.githubusercontent.com/pubgapi/v1/main\/attach\/muzzle"},{"category":"Sight","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/assets-images\/sight.png","source":"https://raw.githubusercontent.com/pubgapi/v1/main\/attach\/sight"},{"category":"Stock","image":"https://raw.githubusercontent.com/pubgapi/v1/main\/images\/assets-images\/stock.png","source":"https://raw.githubusercontent.com/pubgapi/v1/main\/attach\/stock"}]
+[
+	{
+		"category": "Foregrip",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/assets-images\/foregrip.png",
+		"source": "https://raw.githubusercontent.com/pubgapi/v1/main\/attach\/foregrip"
+	},
+	{
+		"category": "Magzine",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/assets-images\/magzine.png",
+		"source": "https://raw.githubusercontent.com/pubgapi/v1/main\/attach\/magzine"
+	},
+	{
+		"category": "Muzzle",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/assets-images\/muzzle.png",
+		"source": "https://raw.githubusercontent.com/pubgapi/v1/main\/attach\/muzzle"
+	},
+	{
+		"category": "Sight",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/assets-images\/sight.png",
+		"source": "https://raw.githubusercontent.com/pubgapi/v1/main\/attach\/sight"
+	},
+	{
+		"category": "Stock",
+		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/assets-images\/stock.png",
+		"source": "https://raw.githubusercontent.com/pubgapi/v1/main\/attach\/stock"
+	}
+]
