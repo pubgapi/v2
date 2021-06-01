@@ -1,0 +1,112 @@
+[
+	{
+		"id": "39",
+		"name": "Crossbow",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/crossbow.png",
+		"short_description": "A crossbow is a type of elastic ranged weapon in similar principle to a bow, consisting of a bow-like assembly called a prod.",
+		"bullet_type": "Bolt",
+		"without_mag": "1",
+		"with_mag": "Not Support",
+		"fire_modes": "Single",
+		"damage": null,
+		"bullet_speed": null,
+		"impact": null,
+		"pickup_delay": null,
+		"ready_delay": null,
+		"normal_reload": null,
+		"quick_reload": null,
+		"attach": {
+			"bullet": [
+				{
+					"name": "Bolt",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bolt.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "2x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
+				},
+				{
+					"name": "3x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
+				},
+				{
+					"name": "4x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
+				},
+				{
+					"name": "6x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
+				},
+				{
+					"name": "Quiver",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quiver.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "39",
+		"name": "Crossbow",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/crossbow.png",
+		"short_description": "A crossbow is a type of elastic ranged weapon in similar principle to a bow, consisting of a bow-like assembly called a prod.",
+		"bullet_type": "Bolt",
+		"without_mag": "1",
+		"with_mag": "Not Support",
+		"fire_modes": "Single",
+		"damage": null,
+		"bullet_speed": null,
+		"impact": null,
+		"pickup_delay": null,
+		"ready_delay": null,
+		"normal_reload": null,
+		"quick_reload": null,
+		"attach": {
+			"bullet": [
+				{
+					"name": "Bolt",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bolt.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "2x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
+				},
+				{
+					"name": "3x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
+				},
+				{
+					"name": "4x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
+				},
+				{
+					"name": "6x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
+				},
+				{
+					"name": "Quiver",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quiver.png"
+				}
+			]
+		}
+	}
+]

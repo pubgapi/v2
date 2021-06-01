@@ -1,0 +1,140 @@
+[
+	{
+		"id": "39",
+		"name": "Crossbow",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/crossbow.png",
+		"short_description": "A crossbow is a type of elastic ranged weapon in similar principle to a bow, consisting of a bow-like assembly called a prod.",
+		"bullet_type": "Bolt",
+		"without_mag": "1",
+		"with_mag": "Not Support",
+		"fire_modes": "Single",
+		"damage": null,
+		"bullet_speed": null,
+		"impact": null,
+		"pickup_delay": null,
+		"ready_delay": null,
+		"normal_reload": null,
+		"quick_reload": null,
+		"attach": {
+			"bullet": [
+				{
+					"name": "Bolt",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bolt.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "2x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
+				},
+				{
+					"name": "3x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
+				},
+				{
+					"name": "4x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
+				},
+				{
+					"name": "6x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
+				},
+				{
+					"name": "Quiver",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quiver.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "9",
+		"name": "Kar98K",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/kar98k.png",
+		"short_description": "The Karabiner 98 kurz is a bolt-action rifle chambered for the 7.92\u00d757mm Mauser cartridge that was adopted on 21 June 1935",
+		"bullet_type": "7.62mm",
+		"without_mag": "5",
+		"with_mag": "7",
+		"fire_modes": "Single",
+		"damage": "72",
+		"bullet_speed": "760m\/s",
+		"impact": "16000",
+		"pickup_delay": "150ms",
+		"ready_delay": "500ms",
+		"normal_reload": "4s",
+		"quick_reload": "1.69s",
+		"attach": {
+			"bullet": [
+				{
+					"name": "7.62mm",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/7_62mm.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "2x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
+				},
+				{
+					"name": "3x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
+				},
+				{
+					"name": "4x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
+				},
+				{
+					"name": "6x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
+				},
+				{
+					"name": "8x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/8x.png"
+				},
+				{
+					"name": "Ext. Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-sniper.png"
+				},
+				{
+					"name": "Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-sniper.png"
+				},
+				{
+					"name": "Extended (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-sniper.png"
+				},
+				{
+					"name": "Suppressor (SNIPER)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-sniper.png"
+				},
+				{
+					"name": "Flash Hider (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flash-hider-sniper.png"
+				},
+				{
+					"name": "Compensator (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-sniper.png"
+				},
+				{
+					"name": "Bulletloop (Kar98K, Win94)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-kar98k-win94.png"
+				}
+			]
+		}
+	}
+]
