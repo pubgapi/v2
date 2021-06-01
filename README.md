@@ -1,9 +1,9 @@
-#### PUBG-API
-
+#### PUBG-API (Version v1.0-beta)
+![](https://media.tenor.com/images/84ff3df2239797ac71353558c4401f44/tenor.gif)
 ------------
 
 Open-Source PUBG API for all pubg items likes weapons, ammos, maps, consumables etc. 	This api structed designed in JSON only, with is very usefull for developers.
-![](https://media.tenor.com/images/84ff3df2239797ac71353558c4401f44/tenor.gif)
+
 **Use this url as root url of an API**
 >  https://raw.githubusercontent.com/pubgapi/v1/main/
 
