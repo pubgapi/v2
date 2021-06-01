@@ -1,0 +1,60 @@
+[
+	{
+		"id": "34",
+		"name": "Flare Gun",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flare.png",
+		"short_description": "Flare gun is used to create illumination for improved vision or as a distress signal.",
+		"bullet_type": "Flare",
+		"without_mag": "1",
+		"with_mag": "Not Support",
+		"fire_modes": "Single",
+		"damage": "N\/A",
+		"bullet_speed": "N\/A",
+		"impact": "N\/A",
+		"pickup_delay": "N\/A",
+		"ready_delay": "N\/A",
+		"normal_reload": "N\/A",
+		"quick_reload": "N\/A",
+		"attach": {
+			"bullet": [
+				{
+					"name": "Flare",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flare-ammo.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Quiver",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quiver.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "27",
+		"name": "DP-28",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/dp28.png",
+		"short_description": "",
+		"bullet_type": "7.62mm",
+		"without_mag": "47",
+		"with_mag": "Not Support",
+		"fire_modes": "Single\/Auto",
+		"damage": "51",
+		"bullet_speed": "715m\/s",
+		"impact": "10000",
+		"pickup_delay": "150ms",
+		"ready_delay": "400ms",
+		"normal_reload": "5.5s",
+		"quick_reload": "4.5s",
+		"attach": {
+			"bullet": [
+				{
+					"name": "7.62mm",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/7_62mm.png"
+				}
+			],
+			"attach": [
+			]
+		}
+	}
+]

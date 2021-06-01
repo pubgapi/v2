@@ -1,0 +1,64 @@
+[
+	{
+		"id": "34",
+		"name": "Flare Gun",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flare.png",
+		"short_description": "Flare gun is used to create illumination for improved vision or as a distress signal.",
+		"bullet_type": "Flare",
+		"without_mag": "1",
+		"with_mag": "Not Support",
+		"fire_modes": "Single",
+		"damage": "N\/A",
+		"bullet_speed": "N\/A",
+		"impact": "N\/A",
+		"pickup_delay": "N\/A",
+		"ready_delay": "N\/A",
+		"normal_reload": "N\/A",
+		"quick_reload": "N\/A",
+		"attach": {
+			"bullet": [
+				{
+					"name": "Flare",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flare-ammo.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Quiver",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quiver.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "34",
+		"name": "Flare Gun",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flare.png",
+		"short_description": "Flare gun is used to create illumination for improved vision or as a distress signal.",
+		"bullet_type": "Flare",
+		"without_mag": "1",
+		"with_mag": "Not Support",
+		"fire_modes": "Single",
+		"damage": "N\/A",
+		"bullet_speed": "N\/A",
+		"impact": "N\/A",
+		"pickup_delay": "N\/A",
+		"ready_delay": "N\/A",
+		"normal_reload": "N\/A",
+		"quick_reload": "N\/A",
+		"attach": {
+			"bullet": [
+				{
+					"name": "Flare",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flare-ammo.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Quiver",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quiver.png"
+				}
+			]
+		}
+	}
+]
