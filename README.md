@@ -5,21 +5,23 @@
 Open-Source PUBG API for all PUBG items likes weapons, ammo, maps, consumables, etc. This API structured designed in JSON only, with is very useful for developers.
 
 **Use this url as root url of an API**
->  https://raw.githubusercontent.com/pubgapi/v1/main/
+>  https://raw.githubusercontent.com/pubgapi/v2/main/
 
 There is all API likes for all items
 
 | API  |  Item  |  example  |
 | ------------ | ------------ | ------------ |
-| [api/cats](https://raw.githubusercontent.com/pubgapi/v1/main/cats "api/cats")  | All weapon category  | --
-| [api/cat/weapon_category](https://raw.githubusercontent.com/pubgapi/v1/main/cat/ar "api/cat/weapon_category")  | All weapons of category  | api/cat/spiner
-| [api/ammo](https://raw.githubusercontent.com/pubgapi/v1/main/ammo "api/ammo")  | All ammo details with used gun  | --
-| [api/attachs](https://raw.githubusercontent.com/pubgapi/v1/main/attachs "api/attachs")  | All attachments   | --
-| [api/attach/attach_name](https://raw.githubusercontent.com/pubgapi/v1/main/attach/foregrip "api/attach/attach_name")  | All attachments with used gun   | api/attach/foregrip
-| [api/body](https://raw.githubusercontent.com/pubgapi/v1/main/body "api/body")  | All Equiments (helmet,bag,vest)  | --
-| [api/health](https://raw.githubusercontent.com/pubgapi/v1/main/health "api/health")  | All Consumables (First-ad, Bandages etc)  | --
-| [api/maps](https://raw.githubusercontent.com/pubgapi/v1/main/maps "api/maps")  | All Maps  | --
-| [api/vehicles](https://raw.githubusercontent.com/pubgapi/v1/main/vehicles "api/vehicles")  | All Vehicles  | --
+| [api/all](https://raw.githubusercontent.com/pubgapi/v2/main/all "api/all")  | All weapons list | --
+| [api/single/weapon_name](https://raw.githubusercontent.com/pubgapi/v2/main/single/m426 "api/single/m416")  | Single weapons complete details | api/single/m416
+| [api/cats](https://raw.githubusercontent.com/pubgapi/v2/main/cats "api/cats")  | All weapon category  | --
+| [api/cat/weapon_category](https://raw.githubusercontent.com/pubgapi/v2/main/cat/ar "api/cat/weapon_category")  | All weapons of category  | api/cat/spiner
+| [api/ammo](https://raw.githubusercontent.com/pubgapi/v2/main/ammo "api/ammo")  | All ammo details with used gun  | --
+| [api/attachs](https://raw.githubusercontent.com/pubgapi/v2/main/attachs "api/attachs")  | All attachments   | --
+| [api/attach/attach_name](https://raw.githubusercontent.com/pubgapi/v2/main/attach/foregrip "api/attach/attach_name")  | All attachments with used gun   | api/attach/foregrip
+| [api/body](https://raw.githubusercontent.com/pubgapi/v2/main/body "api/body")  | All Equiments (helmet,bag,vest)  | --
+| [api/health](https://raw.githubusercontent.com/pubgapi/v2/main/health "api/health")  | All Consumables (First-ad, Bandages etc)  | --
+| [api/maps](https://raw.githubusercontent.com/pubgapi/v2/main/maps "api/maps")  | All Maps  | --
+| [api/vehicles](https://raw.githubusercontent.com/pubgapi/v2/main/vehicles "api/vehicles")  | All Vehicles  | --
 
 
 ### Dynamic Json
