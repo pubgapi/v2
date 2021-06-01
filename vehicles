@@ -92,7 +92,7 @@
 	{
 		"id": "11",
 		"name": "Van",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Van.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Van.jpg",
 		"occupants": "6",
 		"top_speed": "110 Km\/h",
 		"type": "Land",
