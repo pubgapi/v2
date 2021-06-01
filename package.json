@@ -19,5 +19,5 @@
     "url": "https://github.com/pubgapi/v2/issues"           
  },                                                                        
   "homepage": "https://github.com/pubgapi/v2#readme",      
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }    
+  "_publishConfig": { "registry": "https://npm.pkg.github.com/" }    
   }
