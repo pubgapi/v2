@@ -1,0 +1,23 @@
+{
+	"id": "49",
+	"name": "Snow Ball",
+	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/snow-ball.png",
+	"short_description": "",
+	"bullet_type": "",
+	"without_mag": "",
+	"with_mag": "",
+	"fire_modes": "",
+	"damage": null,
+	"bullet_speed": null,
+	"impact": null,
+	"pickup_delay": null,
+	"ready_delay": null,
+	"normal_reload": null,
+	"quick_reload": null,
+	"attach": {
+		"bullet": [
+		],
+		"attach": [
+		]
+	}
+}

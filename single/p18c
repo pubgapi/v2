@@ -1,0 +1,51 @@
+{
+	"id": "31",
+	"name": "P18C",
+	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/p18c.png",
+	"short_description": "",
+	"bullet_type": "9mm",
+	"without_mag": "17",
+	"with_mag": "25",
+	"fire_modes": "Single\/Auto",
+	"damage": "25",
+	"bullet_speed": "375m\/s",
+	"impact": "7000",
+	"pickup_delay": "150ms",
+	"ready_delay": "500ms",
+	"normal_reload": "2s",
+	"quick_reload": "1.7s",
+	"attach": {
+		"bullet": [
+			{
+				"name": "9mm",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/9mm.png"
+			}
+		],
+		"attach": [
+			{
+				"name": "Holographic",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/holographic.png"
+			},
+			{
+				"name": "Red Dot",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/red-dot.png"
+			},
+			{
+				"name": "Ext. Quickdraw (Pistol)",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/extended-quickdraw-mag-pistol.png"
+			},
+			{
+				"name": "Quickdraw (Pistol)",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/quickdraw-mag-pistol.png"
+			},
+			{
+				"name": "Extended (Pistol)",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/extended-mag-pistol.png"
+			},
+			{
+				"name": "Suppressor (Pistol)",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/supressor-pistol.png"
+			}
+		]
+	}
+}

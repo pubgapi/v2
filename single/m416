@@ -1,0 +1,107 @@
+{
+	"id": "4",
+	"name": "M416",
+	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/m416.png",
+	"short_description": "The HK416, (referred to as the M416 in-game) is an assault rifle\/carbine type weapon in BATTLEGROUNDS.",
+	"bullet_type": "5.56mm",
+	"without_mag": "30",
+	"with_mag": "40",
+	"fire_modes": "Single\/Auto",
+	"damage": "43",
+	"bullet_speed": "880m\/s",
+	"impact": "3500",
+	"pickup_delay": "150ms",
+	"ready_delay": "500ms",
+	"normal_reload": "2.1s",
+	"quick_reload": "1.9s",
+	"attach": {
+		"bullet": [
+			{
+				"name": "5.56mm",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/5_56mm.png"
+			}
+		],
+		"attach": [
+			{
+				"name": "Holographic",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/holographic.png"
+			},
+			{
+				"name": "Red Dot",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/red-dot.png"
+			},
+			{
+				"name": "2x Scope",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/2x.png"
+			},
+			{
+				"name": "3x Scope",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/3x.png"
+			},
+			{
+				"name": "4x Scope",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/4x.png"
+			},
+			{
+				"name": "6x Scope",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/6x.png"
+			},
+			{
+				"name": "Ext. Quickdraw  (AR)",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/extended-quickdraw-mag-ar.png"
+			},
+			{
+				"name": "Quickdraw (AR)",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/quickdraw-mag-ar.png"
+			},
+			{
+				"name": "Extended (AR)",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/extended-mag-ar.png"
+			},
+			{
+				"name": "Suppressor (AR)",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/supressor-ar.png"
+			},
+			{
+				"name": "Flash Hider (AR)",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/flash-hider-ar.png"
+			},
+			{
+				"name": "Compensator (AR)",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/compensator-ar.png"
+			},
+			{
+				"name": "Thumb Grip",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/thumb-grip.png"
+			},
+			{
+				"name": "Laser Sight",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/laser-sight.png"
+			},
+			{
+				"name": "Half Grip",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/half-grip.png"
+			},
+			{
+				"name": "Light Grip",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/light-grip.png"
+			},
+			{
+				"name": "Verticle Grip",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/verticle-grip.png"
+			},
+			{
+				"name": "Angled Grip",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/angled-grip.png"
+			},
+			{
+				"name": "Cheek Pad",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/cheek-pad.png"
+			},
+			{
+				"name": "Tact Stock",
+				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/tact-stock.png"
+			}
+		]
+	}
+}

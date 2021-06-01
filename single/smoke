@@ -1,0 +1,23 @@
+{
+	"id": "42",
+	"name": "Smoke Granade",
+	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/smoke.png",
+	"short_description": "",
+	"bullet_type": "None",
+	"without_mag": "",
+	"with_mag": "",
+	"fire_modes": "",
+	"damage": null,
+	"bullet_speed": null,
+	"impact": null,
+	"pickup_delay": null,
+	"ready_delay": null,
+	"normal_reload": null,
+	"quick_reload": null,
+	"attach": {
+		"bullet": [
+		],
+		"attach": [
+		]
+	}
+}

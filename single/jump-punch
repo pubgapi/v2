@@ -1,0 +1,23 @@
+{
+	"id": "47",
+	"name": "Jump Punch",
+	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/jump-punch.png",
+	"short_description": "",
+	"bullet_type": "",
+	"without_mag": "",
+	"with_mag": "",
+	"fire_modes": "",
+	"damage": "38",
+	"bullet_speed": null,
+	"impact": null,
+	"pickup_delay": null,
+	"ready_delay": null,
+	"normal_reload": null,
+	"quick_reload": null,
+	"attach": {
+		"bullet": [
+		],
+		"attach": [
+		]
+	}
+}
