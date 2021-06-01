@@ -1,7 +1,7 @@
 {
 	"id": "47",
 	"name": "Jump Punch",
-	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/jump-punch.png",
+	"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/jump-punch.png",
 	"short_description": "",
 	"bullet_type": "",
 	"without_mag": "",

@@ -1,7 +1,7 @@
 {
 	"id": "27",
 	"name": "DP-28",
-	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/dp28.png",
+	"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/dp28.png",
 	"short_description": "",
 	"bullet_type": "7.62mm",
 	"without_mag": "47",
@@ -18,7 +18,7 @@
 		"bullet": [
 			{
 				"name": "7.62mm",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/7_62mm.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/7_62mm.png"
 			}
 		],
 		"attach": [

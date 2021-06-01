@@ -3,7 +3,7 @@
 		"id": "40",
 		"name": "GRANADE",
 		"full_name": "Granade",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/granade.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main/images/all/granade.png",
 		"throwtime": "1.30s",
 		"friction": "0.62s",
 		"weight": "14"
@@ -12,7 +12,7 @@
 		"id": "41",
 		"name": "MOLTOVE",
 		"full_name": "Moltov",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/moltov.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main/images/all/moltov.png",
 		"throwtime": "0.85s",
 		"friction": "20s",
 		"weight": "1"
@@ -21,7 +21,7 @@
 		"id": "42",
 		"name": "SMOKE",
 		"full_name": "Smoke Granade",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/smoke.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main/images/all/smoke.png",
 		"throwtime": "1.30s",
 		"friction": "0.60s",
 		"weight": "14"
@@ -30,7 +30,7 @@
 		"id": "43",
 		"name": "STUN",
 		"full_name": "Stun Granade",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/stun.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main/images/all/stun.png",
 		"throwtime": "1.30s",
 		"friction": "0.80s",
 		"weight": "12"
@@ -39,7 +39,7 @@
 		"id": "48",
 		"name": "APPLE",
 		"full_name": "Apple",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/apple.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main/images/all/apple.png",
 		"throwtime": "1.30s",
 		"friction": "0.35s",
 		"weight": "1"
@@ -48,7 +48,7 @@
 		"id": "49",
 		"name": "SNOW-BALL",
 		"full_name": "Snow Ball",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main/images/all/snow-ball.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main/images/all/snow-ball.png",
 		"throwtime": "1.30s",
 		"friction": "0.00s",
 		"weight": "1"

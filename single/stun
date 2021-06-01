@@ -1,7 +1,7 @@
 {
 	"id": "43",
 	"name": "Stun Granade",
-	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/stun.png",
+	"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/stun.png",
 	"short_description": "",
 	"bullet_type": "None",
 	"without_mag": "",

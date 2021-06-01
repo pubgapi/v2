@@ -1,7 +1,7 @@
 {
 	"id": "37",
 	"name": "Sickle",
-	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/sickle.png",
+	"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/sickle.png",
 	"short_description": "",
 	"bullet_type": "None",
 	"without_mag": "",

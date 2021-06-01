@@ -2,7 +2,7 @@
 	{
 		"id": "23",
 		"name": "S686",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/s686.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/s686.png",
 		"short_description": "",
 		"bullet_type": "12 Gauge",
 		"without_mag": "2",
@@ -19,45 +19,45 @@
 			"bullet": [
 				{
 					"name": "12 Gauge",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/12-gauge.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/12-gauge.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/holographic.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/red-dot.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/2x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/3x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/4x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/6x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
 				},
 				{
 					"name": "Duckbill",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/duckbill.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/duckbill.png"
 				},
 				{
 					"name": "Choke",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/choke.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/choke.png"
 				},
 				{
 					"name": "Bulletloop (Shotgun)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/bulletloop-shotgun.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-shotgun.png"
 				}
 			]
 		}
@@ -65,7 +65,7 @@
 	{
 		"id": "24",
 		"name": "S1897",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/s1897.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/s1897.png",
 		"short_description": "",
 		"bullet_type": "12 Gauge",
 		"without_mag": "5",
@@ -82,45 +82,45 @@
 			"bullet": [
 				{
 					"name": "12 Gauge",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/12-gauge.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/12-gauge.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/holographic.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/red-dot.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/2x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/3x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/4x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/6x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
 				},
 				{
 					"name": "Duckbill",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/duckbill.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/duckbill.png"
 				},
 				{
 					"name": "Choke",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/choke.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/choke.png"
 				},
 				{
 					"name": "Bulletloop (Shotgun)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/bulletloop-shotgun.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-shotgun.png"
 				}
 			]
 		}
@@ -128,7 +128,7 @@
 	{
 		"id": "25",
 		"name": "S12K",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/s12k.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/s12k.png",
 		"short_description": "",
 		"bullet_type": "12 Gauge",
 		"without_mag": "5",
@@ -145,45 +145,45 @@
 			"bullet": [
 				{
 					"name": "12 Gauge",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/12-gauge.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/12-gauge.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/holographic.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/red-dot.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/2x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/3x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/4x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/6x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
 				},
 				{
 					"name": "Duckbill",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/duckbill.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/duckbill.png"
 				},
 				{
 					"name": "Choke",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/choke.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/choke.png"
 				},
 				{
 					"name": "Bulletloop (Shotgun)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/bulletloop-shotgun.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-shotgun.png"
 				}
 			]
 		}
@@ -191,7 +191,7 @@
 	{
 		"id": "50",
 		"name": "DBS",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/dbs.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/dbs.png",
 		"short_description": "",
 		"bullet_type": "12 Gauge",
 		"without_mag": "10",
@@ -208,45 +208,45 @@
 			"bullet": [
 				{
 					"name": "12 Gauge",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/12-gauge.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/12-gauge.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/holographic.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/red-dot.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/2x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/3x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/4x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/6x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
 				},
 				{
 					"name": "Duckbill",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/duckbill.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/duckbill.png"
 				},
 				{
 					"name": "Choke",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/choke.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/choke.png"
 				},
 				{
 					"name": "Bulletloop (Shotgun)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/bulletloop-shotgun.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-shotgun.png"
 				}
 			]
 		}

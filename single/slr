@@ -1,7 +1,7 @@
 {
 	"id": "17",
 	"name": "SLR",
-	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/slr.png",
+	"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/slr.png",
 	"short_description": "",
 	"bullet_type": "7.62mm",
 	"without_mag": "10",
@@ -18,37 +18,37 @@
 		"bullet": [
 			{
 				"name": "7.62mm",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/7_62mm.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/7_62mm.png"
 			}
 		],
 		"attach": [
 			{
 				"name": "Holographic",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/holographic.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
 			},
 			{
 				"name": "Red Dot",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/red-dot.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
 			},
 			{
 				"name": "2x Scope",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/2x.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
 			},
 			{
 				"name": "3x Scope",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/3x.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
 			},
 			{
 				"name": "4x Scope",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/4x.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
 			},
 			{
 				"name": "6x Scope",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/6x.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
 			},
 			{
 				"name": "8x Scope",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/8x.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/8x.png"
 			}
 		]
 	}

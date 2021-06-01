@@ -1,7 +1,7 @@
 {
 	"id": "14",
 	"name": "VSS",
-	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/vss.png",
+	"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/vss.png",
 	"short_description": "",
 	"bullet_type": "9mm",
 	"without_mag": "10",
@@ -18,33 +18,33 @@
 		"bullet": [
 			{
 				"name": "9mm",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/9mm.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/9mm.png"
 			}
 		],
 		"attach": [
 			{
 				"name": "Holographic",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/holographic.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
 			},
 			{
 				"name": "Red Dot",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/red-dot.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
 			},
 			{
 				"name": "2x Scope",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/2x.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
 			},
 			{
 				"name": "3x Scope",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/3x.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
 			},
 			{
 				"name": "4x Scope",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/4x.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
 			},
 			{
 				"name": "6x Scope",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/6x.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
 			}
 		]
 	}

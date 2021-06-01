@@ -2,7 +2,7 @@
 	{
 		"id": "26",
 		"name": "M249",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/m249.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/m249.png",
 		"short_description": "The M249 light machine gun, formerly designated the M249 Squad Automatic Weapon",
 		"bullet_type": "5.56mm",
 		"without_mag": "75",
@@ -19,7 +19,7 @@
 			"bullet": [
 				{
 					"name": "5.56mm",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/5_56mm.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/5_56mm.png"
 				}
 			],
 			"attach": [
@@ -29,7 +29,7 @@
 	{
 		"id": "27",
 		"name": "DP-28",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/dp28.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/dp28.png",
 		"short_description": "",
 		"bullet_type": "7.62mm",
 		"without_mag": "47",
@@ -46,7 +46,7 @@
 			"bullet": [
 				{
 					"name": "7.62mm",
-					"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/7_62mm.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/7_62mm.png"
 				}
 			],
 			"attach": [

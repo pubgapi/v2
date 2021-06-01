@@ -1,7 +1,7 @@
 {
 	"id": "55",
 	"name": "Desert Eagle",
-	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/Desert-eagle.png",
+	"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/Desert-eagle.png",
 	"short_description": "",
 	"bullet_type": ".45 ACP",
 	"without_mag": "7",
@@ -18,33 +18,33 @@
 		"bullet": [
 			{
 				"name": ".45 ACP",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/45acp.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/45acp.png"
 			}
 		],
 		"attach": [
 			{
 				"name": "Holographic",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/holographic.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
 			},
 			{
 				"name": "Red Dot",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/red-dot.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
 			},
 			{
 				"name": "Ext. Quickdraw (Pistol)",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/extended-quickdraw-mag-pistol.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-pistol.png"
 			},
 			{
 				"name": "Quickdraw (Pistol)",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/quickdraw-mag-pistol.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-pistol.png"
 			},
 			{
 				"name": "Extended (Pistol)",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/extended-mag-pistol.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-pistol.png"
 			},
 			{
 				"name": "Suppressor (Pistol)",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/supressor-pistol.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-pistol.png"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"id": "41",
 	"name": "Moltov",
-	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/moltov.png",
+	"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/moltov.png",
 	"short_description": "",
 	"bullet_type": "None",
 	"without_mag": "",

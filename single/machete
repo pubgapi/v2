@@ -1,7 +1,7 @@
 {
 	"id": "35",
 	"name": "Machete",
-	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/machete.png",
+	"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/machete.png",
 	"short_description": "",
 	"bullet_type": "None",
 	"without_mag": "",

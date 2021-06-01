@@ -2,7 +2,7 @@
 	{
 		"id": "1",
 		"name": "Buggy",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Vehicle_Buggy.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Vehicle_Buggy.png",
 		"occupants": "2",
 		"top_speed": "100 Km\/h",
 		"type": "Land",
@@ -11,7 +11,7 @@
 	{
 		"id": "2",
 		"name": "UAZ (Open Top)",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Uaz-open-top.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Uaz-open-top.png",
 		"occupants": "4",
 		"top_speed": "105 Km\/h",
 		"type": "Land",
@@ -20,7 +20,7 @@
 	{
 		"id": "3",
 		"name": "UAZ (Closed Top)",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Uaz-cloth-top.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Uaz-cloth-top.png",
 		"occupants": "4",
 		"top_speed": "115 Km\/h",
 		"type": "Land",
@@ -29,7 +29,7 @@
 	{
 		"id": "4",
 		"name": "Snowmobile",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Vehicle_Snowmobile.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Vehicle_Snowmobile.png",
 		"occupants": "2",
 		"top_speed": "70 Km\/h",
 		"type": "Land",
@@ -38,7 +38,7 @@
 	{
 		"id": "5",
 		"name": "Motorcycle (w\/ sidecar)",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Vehicle_Motorcycle_Sidecar.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Vehicle_Motorcycle_Sidecar.png",
 		"occupants": "3",
 		"top_speed": "130 Km\/h",
 		"type": "Land",
@@ -47,7 +47,7 @@
 	{
 		"id": "6",
 		"name": "Motorcycle",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Vehicle_Motorcycle.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Vehicle_Motorcycle.png",
 		"occupants": "2",
 		"top_speed": "152 Km\/h",
 		"type": "Land",
@@ -56,7 +56,7 @@
 	{
 		"id": "7",
 		"name": "Tukshai",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Vehicle_Tukshai.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Vehicle_Tukshai.png",
 		"occupants": "3",
 		"top_speed": "69 Km\/h",
 		"type": "Land",
@@ -65,7 +65,7 @@
 	{
 		"id": "8",
 		"name": "Scooter",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Vehicle_Scooter.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Vehicle_Scooter.png",
 		"occupants": "2",
 		"top_speed": "55 Km\/h",
 		"type": "Land",
@@ -74,7 +74,7 @@
 	{
 		"id": "9",
 		"name": "Dacia 1300",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Vehicle_Dacia.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Vehicle_Dacia.png",
 		"occupants": "4",
 		"top_speed": "139 Km\/h",
 		"type": "Land",
@@ -83,7 +83,7 @@
 	{
 		"id": "10",
 		"name": "Mirado (Closed Top)",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Vehicle_Mirado_Closed.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Vehicle_Mirado_Closed.png",
 		"occupants": "4",
 		"top_speed": "152 Km\/h",
 		"type": "Land",
@@ -92,7 +92,7 @@
 	{
 		"id": "11",
 		"name": "Van",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Van.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Van.png",
 		"occupants": "6",
 		"top_speed": "110 Km\/h",
 		"type": "Land",
@@ -101,7 +101,7 @@
 	{
 		"id": "12",
 		"name": "Pickup",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Pickup-both-variants.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Pickup-both-variants.png",
 		"occupants": "4",
 		"top_speed": "111 Km\/h",
 		"type": "Land",
@@ -110,7 +110,7 @@
 	{
 		"id": "13",
 		"name": "Rony",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Vehicle_Rony.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Vehicle_Rony.png",
 		"occupants": "4",
 		"top_speed": "110 Km\/h",
 		"type": "Land",
@@ -119,7 +119,7 @@
 	{
 		"id": "14",
 		"name": "PG-117",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Vehicle_PG-117.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Vehicle_PG-117.png",
 		"occupants": "5",
 		"top_speed": "90 Km\/h",
 		"type": "Water",
@@ -128,7 +128,7 @@
 	{
 		"id": "15",
 		"name": "Aquarail",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Vehicle_Aquarail.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Vehicle_Aquarail.png",
 		"occupants": "2",
 		"top_speed": "90 Km\/h",
 		"type": "Water",
@@ -137,7 +137,7 @@
 	{
 		"id": "16",
 		"name": "Motor Glider",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Vehicle_Motor_Glider.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Vehicle_Motor_Glider.png",
 		"occupants": "2",
 		"top_speed": "70 Km\/h",
 		"type": "Land\/Air",
@@ -146,7 +146,7 @@
 	{
 		"id": "17",
 		"name": "BRDM",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Vehicle_BRDM-2.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Vehicle_BRDM-2.png",
 		"occupants": "4",
 		"top_speed": "105 Km\/h",
 		"type": "Land\/\/Water",
@@ -155,7 +155,7 @@
 	{
 		"id": "18",
 		"name": "Monster Truck",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/monster-truck.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/monster-truck.png",
 		"occupants": "4",
 		"top_speed": "110 Km\/h",
 		"type": "Land",
@@ -164,7 +164,7 @@
 	{
 		"id": "19",
 		"name": "Mirado (Open Top)",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/vehicles\/Vehicle_Mirado_Open.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/vehicles\/Vehicle_Mirado_Open.png",
 		"occupants": "4",
 		"top_speed": "146 Km\/h",
 		"type": "Land",

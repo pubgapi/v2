@@ -1,7 +1,7 @@
 {
 	"id": "30",
 	"name": "R1895",
-	"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/r1895.png",
+	"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/r1895.png",
 	"short_description": "A Nagant M1895 produced in 1941 by the Tula Arsenal with its 7.62\u00d738mmR ammunition",
 	"bullet_type": "7.62mm",
 	"without_mag": "7",
@@ -18,33 +18,33 @@
 		"bullet": [
 			{
 				"name": "7.62mm",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/7_62mm.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/7_62mm.png"
 			}
 		],
 		"attach": [
 			{
 				"name": "Holographic",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/holographic.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
 			},
 			{
 				"name": "Red Dot",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/red-dot.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
 			},
 			{
 				"name": "Ext. Quickdraw (Pistol)",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/extended-quickdraw-mag-pistol.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-pistol.png"
 			},
 			{
 				"name": "Quickdraw (Pistol)",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/quickdraw-mag-pistol.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-pistol.png"
 			},
 			{
 				"name": "Extended (Pistol)",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/extended-mag-pistol.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-pistol.png"
 			},
 			{
 				"name": "Suppressor (Pistol)",
-				"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/supressor-pistol.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-pistol.png"
 			}
 		]
 	}

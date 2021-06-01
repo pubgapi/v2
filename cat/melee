@@ -2,7 +2,7 @@
 	{
 		"id": "35",
 		"name": "Machete",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/machete.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/machete.png",
 		"short_description": "",
 		"bullet_type": "None",
 		"without_mag": "",
@@ -25,7 +25,7 @@
 	{
 		"id": "36",
 		"name": "Crowbar",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/crowbar.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/crowbar.png",
 		"short_description": "",
 		"bullet_type": "None",
 		"without_mag": "",
@@ -48,7 +48,7 @@
 	{
 		"id": "37",
 		"name": "Sickle",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/sickle.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/sickle.png",
 		"short_description": "",
 		"bullet_type": "None",
 		"without_mag": "",
@@ -71,7 +71,7 @@
 	{
 		"id": "38",
 		"name": "Pan",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/pan.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/pan.png",
 		"short_description": "",
 		"bullet_type": "None",
 		"without_mag": "",
@@ -94,7 +94,7 @@
 	{
 		"id": "46",
 		"name": "Punch",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/punch.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/punch.png",
 		"short_description": "",
 		"bullet_type": "",
 		"without_mag": "",
@@ -117,7 +117,7 @@
 	{
 		"id": "47",
 		"name": "Jump Punch",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/jump-punch.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/jump-punch.png",
 		"short_description": "",
 		"bullet_type": "",
 		"without_mag": "",

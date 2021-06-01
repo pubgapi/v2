@@ -2,7 +2,7 @@
 	{
 		"id": "40",
 		"name": "Granade",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/granade.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/granade.png",
 		"short_description": "",
 		"bullet_type": "None",
 		"without_mag": "",
@@ -25,7 +25,7 @@
 	{
 		"id": "41",
 		"name": "Moltov",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/moltov.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/moltov.png",
 		"short_description": "",
 		"bullet_type": "None",
 		"without_mag": "",
@@ -48,7 +48,7 @@
 	{
 		"id": "42",
 		"name": "Smoke Granade",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/smoke.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/smoke.png",
 		"short_description": "",
 		"bullet_type": "None",
 		"without_mag": "",
@@ -71,7 +71,7 @@
 	{
 		"id": "43",
 		"name": "Stun Granade",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/stun.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/stun.png",
 		"short_description": "",
 		"bullet_type": "None",
 		"without_mag": "",
@@ -94,7 +94,7 @@
 	{
 		"id": "48",
 		"name": "Apple",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/apple.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/apple.png",
 		"short_description": "",
 		"bullet_type": "",
 		"without_mag": "",
@@ -117,7 +117,7 @@
 	{
 		"id": "49",
 		"name": "Snow Ball",
-		"image": "https://raw.githubusercontent.com/pubgapi/v1/main\/images\/all\/snow-ball.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/snow-ball.png",
 		"short_description": "",
 		"bullet_type": "",
 		"without_mag": "",
