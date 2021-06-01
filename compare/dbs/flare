@@ -1,0 +1,96 @@
+[
+	{
+		"id": "50",
+		"name": "DBS",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/dbs.png",
+		"short_description": "",
+		"bullet_type": "12 Gauge",
+		"without_mag": "10",
+		"with_mag": "10",
+		"fire_modes": "Single",
+		"damage": "26",
+		"bullet_speed": "100m\/s",
+		"impact": "N\/A",
+		"pickup_delay": "150ms",
+		"ready_delay": "500ms",
+		"normal_reload": "7s",
+		"quick_reload": "N\/A",
+		"attach": {
+			"bullet": [
+				{
+					"name": "12 Gauge",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/12-gauge.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "2x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
+				},
+				{
+					"name": "3x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
+				},
+				{
+					"name": "4x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
+				},
+				{
+					"name": "6x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
+				},
+				{
+					"name": "Duckbill",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/duckbill.png"
+				},
+				{
+					"name": "Choke",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/choke.png"
+				},
+				{
+					"name": "Bulletloop (Shotgun)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-shotgun.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "34",
+		"name": "Flare Gun",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flare.png",
+		"short_description": "Flare gun is used to create illumination for improved vision or as a distress signal.",
+		"bullet_type": "Flare",
+		"without_mag": "1",
+		"with_mag": "Not Support",
+		"fire_modes": "Single",
+		"damage": "N\/A",
+		"bullet_speed": "N\/A",
+		"impact": "N\/A",
+		"pickup_delay": "N\/A",
+		"ready_delay": "N\/A",
+		"normal_reload": "N\/A",
+		"quick_reload": "N\/A",
+		"attach": {
+			"bullet": [
+				{
+					"name": "Flare",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flare-ammo.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Quiver",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quiver.png"
+				}
+			]
+		}
+	}
+]
