@@ -1,5 +1,5 @@
 {      
- "name": "pubgapi",                                    
+ "name": "@pubgapi",                                    
  "version": "2.0.0",                                                    
  "description": "Open-Source PUBG API for all PUBG items likes weapons, ammo, maps, consumables, etc. This API structured designed in JSON only, with is very useful for developers.",                             
  "main": "about.json",                                                
