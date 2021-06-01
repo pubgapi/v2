@@ -1,4 +1,4 @@
-#### PUBG-API (Version v1.0-beta)
+#### PUBG-API (Version v2)
 ![](https://media.tenor.com/images/84ff3df2239797ac71353558c4401f44/tenor.gif)
 ------------
 
