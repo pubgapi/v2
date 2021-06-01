@@ -1,0 +1,108 @@
+[
+	{
+		"id": "39",
+		"name": "Crossbow",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/crossbow.png",
+		"short_description": "A crossbow is a type of elastic ranged weapon in similar principle to a bow, consisting of a bow-like assembly called a prod.",
+		"bullet_type": "Bolt",
+		"without_mag": "1",
+		"with_mag": "Not Support",
+		"fire_modes": "Single",
+		"damage": null,
+		"bullet_speed": null,
+		"impact": null,
+		"pickup_delay": null,
+		"ready_delay": null,
+		"normal_reload": null,
+		"quick_reload": null,
+		"attach": {
+			"bullet": [
+				{
+					"name": "Bolt",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bolt.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "2x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
+				},
+				{
+					"name": "3x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
+				},
+				{
+					"name": "4x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
+				},
+				{
+					"name": "6x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
+				},
+				{
+					"name": "Quiver",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quiver.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "54",
+		"name": "Skorpion",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/Icon_weapon_Skorpion.png",
+		"short_description": "",
+		"bullet_type": "9mm",
+		"without_mag": "20",
+		"with_mag": "20",
+		"fire_modes": "",
+		"damage": "22",
+		"bullet_speed": "350m\/s",
+		"impact": "5000",
+		"pickup_delay": "150ms",
+		"ready_delay": "500ms",
+		"normal_reload": "3.1s",
+		"quick_reload": "2.5s",
+		"attach": {
+			"bullet": [
+				{
+					"name": "9mm",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/9mm.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "Ext. Quickdraw (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-pistol.png"
+				},
+				{
+					"name": "Quickdraw (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-pistol.png"
+				},
+				{
+					"name": "Extended (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-pistol.png"
+				},
+				{
+					"name": "Suppressor (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-pistol.png"
+				}
+			]
+		}
+	}
+]
