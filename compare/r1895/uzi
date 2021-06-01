@@ -1,0 +1,116 @@
+[
+	{
+		"id": "30",
+		"name": "R1895",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/r1895.png",
+		"short_description": "A Nagant M1895 produced in 1941 by the Tula Arsenal with its 7.62\u00d738mmR ammunition",
+		"bullet_type": "7.62mm",
+		"without_mag": "7",
+		"with_mag": "Not Support",
+		"fire_modes": "Single",
+		"damage": "55",
+		"bullet_speed": "330m\/s",
+		"impact": "8000",
+		"pickup_delay": "150ms",
+		"ready_delay": "500ms",
+		"normal_reload": "6.2s",
+		"quick_reload": "N\/A",
+		"attach": {
+			"bullet": [
+				{
+					"name": "7.62mm",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/7_62mm.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "Ext. Quickdraw (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-pistol.png"
+				},
+				{
+					"name": "Quickdraw (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-pistol.png"
+				},
+				{
+					"name": "Extended (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-pistol.png"
+				},
+				{
+					"name": "Suppressor (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-pistol.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "19",
+		"name": "UZI",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/uzi.png",
+		"short_description": "",
+		"bullet_type": "9mm",
+		"without_mag": "25",
+		"with_mag": "32",
+		"fire_modes": "Single\/Auto",
+		"damage": "26",
+		"bullet_speed": "350m\/s",
+		"impact": "5000",
+		"pickup_delay": "150ms",
+		"ready_delay": "500ms",
+		"normal_reload": "3.1s",
+		"quick_reload": "2.5s",
+		"attach": {
+			"bullet": [
+				{
+					"name": "9mm",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/9mm.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "Ext. Quickd (SMG)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-smg.png"
+				},
+				{
+					"name": "Quickdraw (SMG)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-smg.png"
+				},
+				{
+					"name": "Extended (SMG)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-smg.png"
+				},
+				{
+					"name": "Suppressor (SMG)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-smg.png"
+				},
+				{
+					"name": "Flash Hider (SMG)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flash-hider-smg.png"
+				},
+				{
+					"name": "Compensator (SMG)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-smg.png"
+				},
+				{
+					"name": "Stock Micro",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/stock-micro.png"
+				}
+			]
+		}
+	}
+]

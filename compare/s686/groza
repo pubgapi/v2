@@ -1,0 +1,172 @@
+[
+	{
+		"id": "23",
+		"name": "S686",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/s686.png",
+		"short_description": "",
+		"bullet_type": "12 Gauge",
+		"without_mag": "2",
+		"with_mag": "2",
+		"fire_modes": "Single",
+		"damage": "216",
+		"bullet_speed": "370m\/s",
+		"impact": "5000",
+		"pickup_delay": "150ms",
+		"ready_delay": "500ms",
+		"normal_reload": "3s",
+		"quick_reload": "N\/A",
+		"attach": {
+			"bullet": [
+				{
+					"name": "12 Gauge",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/12-gauge.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "2x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
+				},
+				{
+					"name": "3x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
+				},
+				{
+					"name": "4x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
+				},
+				{
+					"name": "6x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
+				},
+				{
+					"name": "Duckbill",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/duckbill.png"
+				},
+				{
+					"name": "Choke",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/choke.png"
+				},
+				{
+					"name": "Bulletloop (Shotgun)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-shotgun.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "5",
+		"name": "Groza",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/groza.png",
+		"short_description": "The OTs-14 Groza is a Russian selective fire bullpup assault rifle chambered for the 7.62x39 round and the 9x39mm subsonic round.",
+		"bullet_type": "7.62mm",
+		"without_mag": "30",
+		"with_mag": "40",
+		"fire_modes": "Single\/Auto",
+		"damage": "49",
+		"bullet_speed": "715m\/s",
+		"impact": "1000",
+		"pickup_delay": "150ms",
+		"ready_delay": "400ms",
+		"normal_reload": "3.0s",
+		"quick_reload": "2.25s",
+		"attach": {
+			"bullet": [
+				{
+					"name": "7.62mm",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/7_62mm.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "2x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
+				},
+				{
+					"name": "3x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
+				},
+				{
+					"name": "4x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
+				},
+				{
+					"name": "6x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
+				},
+				{
+					"name": "Ext. Quickdraw  (AR)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-ar.png"
+				},
+				{
+					"name": "Quickdraw (AR)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-ar.png"
+				},
+				{
+					"name": "Extended (AR)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-ar.png"
+				},
+				{
+					"name": "Suppressor (AR)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-ar.png"
+				},
+				{
+					"name": "Flash Hider (AR)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flash-hider-ar.png"
+				},
+				{
+					"name": "Compensator (AR)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-ar.png"
+				},
+				{
+					"name": "Thumb Grip",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/thumb-grip.png"
+				},
+				{
+					"name": "Laser Sight",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/laser-sight.png"
+				},
+				{
+					"name": "Half Grip",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/half-grip.png"
+				},
+				{
+					"name": "Light Grip",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/light-grip.png"
+				},
+				{
+					"name": "Verticle Grip",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/verticle-grip.png"
+				},
+				{
+					"name": "Angled Grip",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/angled-grip.png"
+				},
+				{
+					"name": "Cheek Pad",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/cheek-pad.png"
+				},
+				{
+					"name": "Tact Stock",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/tact-stock.png"
+				}
+			]
+		}
+	}
+]

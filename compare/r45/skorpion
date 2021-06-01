@@ -1,0 +1,104 @@
+[
+	{
+		"id": "32",
+		"name": "R45",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/r45.png",
+		"short_description": "",
+		"bullet_type": ".45 ACP",
+		"without_mag": "6",
+		"with_mag": "No Support",
+		"fire_modes": "Single",
+		"damage": "55",
+		"bullet_speed": "330m\/s",
+		"impact": "8000",
+		"pickup_delay": "150ms",
+		"ready_delay": "500ms",
+		"normal_reload": "3.2s",
+		"quick_reload": "N\/A",
+		"attach": {
+			"bullet": [
+				{
+					"name": ".45 ACP",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/45acp.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "Ext. Quickdraw (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-pistol.png"
+				},
+				{
+					"name": "Quickdraw (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-pistol.png"
+				},
+				{
+					"name": "Extended (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-pistol.png"
+				},
+				{
+					"name": "Suppressor (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-pistol.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "54",
+		"name": "Skorpion",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/Icon_weapon_Skorpion.png",
+		"short_description": "",
+		"bullet_type": "9mm",
+		"without_mag": "20",
+		"with_mag": "20",
+		"fire_modes": "",
+		"damage": "22",
+		"bullet_speed": "350m\/s",
+		"impact": "5000",
+		"pickup_delay": "150ms",
+		"ready_delay": "500ms",
+		"normal_reload": "3.1s",
+		"quick_reload": "2.5s",
+		"attach": {
+			"bullet": [
+				{
+					"name": "9mm",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/9mm.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "Ext. Quickdraw (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-pistol.png"
+				},
+				{
+					"name": "Quickdraw (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-pistol.png"
+				},
+				{
+					"name": "Extended (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-pistol.png"
+				},
+				{
+					"name": "Suppressor (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-pistol.png"
+				}
+			]
+		}
+	}
+]

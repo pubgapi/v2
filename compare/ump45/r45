@@ -1,0 +1,132 @@
+[
+	{
+		"id": "20",
+		"name": "UMP45",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png",
+		"short_description": "The UMP has been adopted by various agencies such as the U.S. Customs and Border Protection.",
+		"bullet_type": "9mm",
+		"without_mag": "30",
+		"with_mag": "40",
+		"fire_modes": "Single\/Auto",
+		"damage": "41",
+		"bullet_speed": "360m\/s",
+		"impact": "7000",
+		"pickup_delay": "150ms",
+		"ready_delay": "500ms",
+		"normal_reload": "3.1s",
+		"quick_reload": "2.5s",
+		"attach": {
+			"bullet": [
+				{
+					"name": ".45 ACP",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/45acp.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "2x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
+				},
+				{
+					"name": "3x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
+				},
+				{
+					"name": "4x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
+				},
+				{
+					"name": "6x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
+				},
+				{
+					"name": "Ext. Quickd (SMG)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-smg.png"
+				},
+				{
+					"name": "Quickdraw (SMG)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-smg.png"
+				},
+				{
+					"name": "Extended (SMG)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-smg.png"
+				},
+				{
+					"name": "Suppressor (SMG)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-smg.png"
+				},
+				{
+					"name": "Flash Hider (SMG)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flash-hider-smg.png"
+				},
+				{
+					"name": "Compensator (SMG)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-smg.png"
+				},
+				{
+					"name": "Stock Micro",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/stock-micro.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "32",
+		"name": "R45",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/r45.png",
+		"short_description": "",
+		"bullet_type": ".45 ACP",
+		"without_mag": "6",
+		"with_mag": "No Support",
+		"fire_modes": "Single",
+		"damage": "55",
+		"bullet_speed": "330m\/s",
+		"impact": "8000",
+		"pickup_delay": "150ms",
+		"ready_delay": "500ms",
+		"normal_reload": "3.2s",
+		"quick_reload": "N\/A",
+		"attach": {
+			"bullet": [
+				{
+					"name": ".45 ACP",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/45acp.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "Ext. Quickdraw (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-pistol.png"
+				},
+				{
+					"name": "Quickdraw (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-pistol.png"
+				},
+				{
+					"name": "Extended (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-pistol.png"
+				},
+				{
+					"name": "Suppressor (Pistol)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-pistol.png"
+				}
+			]
+		}
+	}
+]

@@ -1,0 +1,136 @@
+[
+	{
+		"id": "12",
+		"name": "Win94",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/win94.png",
+		"short_description": "",
+		"bullet_type": ".45 ACP",
+		"without_mag": "5",
+		"with_mag": "7",
+		"fire_modes": "Single",
+		"damage": "66",
+		"bullet_speed": "760m\/s",
+		"impact": "16000",
+		"pickup_delay": "150ms",
+		"ready_delay": "500ms",
+		"normal_reload": "3s",
+		"quick_reload": "2.8s",
+		"attach": {
+			"bullet": [
+				{
+					"name": ".45 ACP",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/45acp.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "2x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
+				},
+				{
+					"name": "3x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
+				},
+				{
+					"name": "4x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
+				},
+				{
+					"name": "6x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
+				},
+				{
+					"name": "Ext. Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-sniper.png"
+				},
+				{
+					"name": "Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-sniper.png"
+				},
+				{
+					"name": "Extended (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-sniper.png"
+				},
+				{
+					"name": "Suppressor (SNIPER)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-sniper.png"
+				},
+				{
+					"name": "Flash Hider (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flash-hider-sniper.png"
+				},
+				{
+					"name": "Compensator (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-sniper.png"
+				},
+				{
+					"name": "Bulletloop (Kar98K, Win94)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-kar98k-win94.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "15",
+		"name": "Mini 14",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/mini14.png",
+		"short_description": "",
+		"bullet_type": "5.56mm",
+		"without_mag": "20",
+		"with_mag": "30",
+		"fire_modes": "Single",
+		"damage": "41",
+		"bullet_speed": "333m\/s",
+		"impact": "20000",
+		"pickup_delay": "150ms",
+		"ready_delay": "400ms",
+		"normal_reload": "2.9s",
+		"quick_reload": "2.1s",
+		"attach": {
+			"bullet": [
+				{
+					"name": "5.56mm",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/5_56mm.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "2x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
+				},
+				{
+					"name": "3x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
+				},
+				{
+					"name": "4x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
+				},
+				{
+					"name": "6x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
+				},
+				{
+					"name": "8x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/8x.png"
+				}
+			]
+		}
+	}
+]

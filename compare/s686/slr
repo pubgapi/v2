@@ -1,0 +1,120 @@
+[
+	{
+		"id": "23",
+		"name": "S686",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/s686.png",
+		"short_description": "",
+		"bullet_type": "12 Gauge",
+		"without_mag": "2",
+		"with_mag": "2",
+		"fire_modes": "Single",
+		"damage": "216",
+		"bullet_speed": "370m\/s",
+		"impact": "5000",
+		"pickup_delay": "150ms",
+		"ready_delay": "500ms",
+		"normal_reload": "3s",
+		"quick_reload": "N\/A",
+		"attach": {
+			"bullet": [
+				{
+					"name": "12 Gauge",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/12-gauge.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "2x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
+				},
+				{
+					"name": "3x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
+				},
+				{
+					"name": "4x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
+				},
+				{
+					"name": "6x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
+				},
+				{
+					"name": "Duckbill",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/duckbill.png"
+				},
+				{
+					"name": "Choke",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/choke.png"
+				},
+				{
+					"name": "Bulletloop (Shotgun)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-shotgun.png"
+				}
+			]
+		}
+	},
+	{
+		"id": "17",
+		"name": "SLR",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/slr.png",
+		"short_description": "",
+		"bullet_type": "7.62mm",
+		"without_mag": "10",
+		"with_mag": "20",
+		"fire_modes": "Single",
+		"damage": "58",
+		"bullet_speed": "840m\/s",
+		"impact": "20000",
+		"pickup_delay": "150ms",
+		"ready_delay": "400ms",
+		"normal_reload": "3.6s",
+		"quick_reload": "2.7s",
+		"attach": {
+			"bullet": [
+				{
+					"name": "7.62mm",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/7_62mm.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "2x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
+				},
+				{
+					"name": "3x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
+				},
+				{
+					"name": "4x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
+				},
+				{
+					"name": "6x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
+				},
+				{
+					"name": "8x Scope",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/8x.png"
+				}
+			]
+		}
+	}
+]
