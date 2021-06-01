@@ -21,6 +21,7 @@ There is all API likes for all items
 | [api/maps](https://raw.githubusercontent.com/pubgapi/v1/main/maps "api/maps")  | All Maps  | --
 | [api/vehicles](https://raw.githubusercontent.com/pubgapi/v1/main/vehicles "api/vehicles")  | All Vehicles  | --
 
+
 ### Dynamic Json
 
 ------------
@@ -28,3 +29,9 @@ There is all API likes for all items
 We also have Dynamic JSON in php, completely real time work. Contact us for it. ***Note: It will be paid.***
 
 Contact Us: https://www.facebook.com/profile.php?id=100060079099101
+
+######  Update Logs
+```json
+All Weopon add - 01 June, 2021
+Single Gun Json Add (in single dir)  - 01 June, 2021
+```
