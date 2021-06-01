@@ -2,7 +2,7 @@
 ![](https://media.tenor.com/images/84ff3df2239797ac71353558c4401f44/tenor.gif)
 ------------
 
-Open-Source PUBG API for all pubg items likes weapons, ammos, maps, consumables etc. 	This api structed designed in JSON only, with is very usefull for developers.
+Open-Source PUBG API for all PUBG items likes weapons, ammo, maps, consumables, etc. This API structured designed in JSON only, with is very useful for developers.
 
 **Use this url as root url of an API**
 >  https://raw.githubusercontent.com/pubgapi/v1/main/
