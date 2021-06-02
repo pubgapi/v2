@@ -21,13 +21,6 @@
 		"source": "https://raw.githubusercontent.com/pubgapi/v2/main/cat/mr"
 	},
 	{
-		"id": "4",
-		"name": "MELEE",
-		"full_name": "Melee",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main/images/gun-category/melee-item.png",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main/cat/melee"
-	},
-	{
 		"id": "10",
 		"name": "OTHER",
 		"full_name": "Others",
@@ -61,12 +54,5 @@
 		"full_name": "Sub Machine Guns",
 		"image": "https://raw.githubusercontent.com/pubgapi/v2/main/images/gun-category/smg-gun.png",
 		"source": "https://raw.githubusercontent.com/pubgapi/v2/main/cat/smg"
-	},
-	{
-		"id": "5",
-		"name": "THROWABLE",
-		"full_name": "Throwable",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main/images/gun-category/throwable-item.png",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main/cat/throwable"
 	}
 ]
