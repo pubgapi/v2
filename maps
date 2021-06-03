@@ -46,5 +46,17 @@
 		"size": "6x6 km",
 		"land_area": "40.29%",
 		"water_area": "59.71%"
+	},
+	{
+		"id": "5",
+		"title": "Karakin",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/karakin.jpg",
+		"url": "karakin",
+		"description": "Karakin is a 2x2 km island off the coast of North Africa. Karakin is the first map where BATTLEGROUNDS implemented a Black Zone, where the layout changes every match.",
+		"btn_order": "5",
+		"source": "",
+		"size": "2x2 Km",
+		"land_area": "58.26%",
+		"water_area": "41.74%"
 	}
 ]
