@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "Conqueror",
+    "image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/tier\/conqueror.png",
+    "des": "Top 500 Player of Server",
+    "point": "4200 - "
+  },
+  {
+    "id": "2",
+    "name": "Ace",
+    "image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/tier\/ace.png",
+    "des": "2nd Last Highest Tier",
+    "point": "4200 - 4200"
+  },
+  {
+    "id": "3",
+    "name": "Crown",
+    "image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/tier\/crown.png",
+    "des": "3rd Last Highest Tier",
+    "point": "3700 - 4199"
+  },
+  {
+    "id": "4",
+    "name": "Diamond",
+    "image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/tier\/diamond.png",
+    "des": "Get Free Random Gun Skin",
+    "point": "3300 - 3699"
+  },
+  {
+    "id": "5",
+    "name": "Platinum",
+    "image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/tier\/platinum.png",
+    "des": "Middle Level Tier",
+    "point": "2700 - 3199"
+  },
+  {
+    "id": "6",
+    "name": "Gold",
+    "image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/tier\/gold.png",
+    "des": "Get Free Season Outfit",
+    "point": "2200 - 2699"
+  },
+  {
+    "id": "7",
+    "name": "Silver",
+    "image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/tier\/silver.png",
+    "des": "2nd Lowest Tier",
+    "point": "1700 - 2199"
+  },
+  {
+    "id": "8",
+    "name": "Bronze",
+    "image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/tier\/bronze.png",
+    "des": "1st Lowest Tier",
+    "point": "1200 - 1699"
+  }
+]
