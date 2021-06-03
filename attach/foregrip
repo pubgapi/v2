@@ -3,7 +3,6 @@
 		"details": {
 			"id": "1",
 			"name": "Quiver",
-			"short_des": "A quiver is a container for holding arrows, bolts, or darts.",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quiver.png",
 			"useon": "Crossbow"
 		},
@@ -19,7 +18,6 @@
 		"details": {
 			"id": "4",
 			"name": "Thumb Grip",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/thumb-grip.png",
 			"useon": "M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,G36C,UMP45"
 		},
@@ -67,7 +65,7 @@
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump45.png"
 			}
 		]
 	},
@@ -75,7 +73,6 @@
 		"details": {
 			"id": "5",
 			"name": "Laser Sight",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/laser-sight.png",
 			"useon": "M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,G36C"
 		},
@@ -126,7 +123,6 @@
 		"details": {
 			"id": "6",
 			"name": "Half Grip",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/half-grip.png",
 			"useon": "M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,G36C,UMP45"
 		},
@@ -174,7 +170,7 @@
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump45.png"
 			}
 		]
 	},
@@ -182,7 +178,6 @@
 		"details": {
 			"id": "7",
 			"name": "Light Grip",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/light-grip.png",
 			"useon": "M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,G36C,UMP45"
 		},
@@ -230,7 +225,7 @@
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump45.png"
 			}
 		]
 	},
@@ -238,7 +233,6 @@
 		"details": {
 			"id": "8",
 			"name": "Verticle Grip",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/verticle-grip.png",
 			"useon": "M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,G36C"
 		},
@@ -289,7 +283,6 @@
 		"details": {
 			"id": "9",
 			"name": "Angled Grip",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/angled-grip.png",
 			"useon": "M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,G36C"
 		},

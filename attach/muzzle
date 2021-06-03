@@ -3,7 +3,6 @@
 		"details": {
 			"id": "13",
 			"name": "Duckbill",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/duckbill.png",
 			"useon": "S686,S1897,S12K,DBS,Sawed-off"
 		},
@@ -39,7 +38,6 @@
 		"details": {
 			"id": "14",
 			"name": "Choke",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/choke.png",
 			"useon": "S686,S1897,S12K,DBS,Sawed-off"
 		},
@@ -75,7 +73,6 @@
 		"details": {
 			"id": "15",
 			"name": "Suppressor (AR)",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-ar.png",
 			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,MK47-Mutant,G36C"
 		},
@@ -136,7 +133,6 @@
 		"details": {
 			"id": "16",
 			"name": "Suppressor (SMG)",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-smg.png",
 			"useon": "UZI,UMP45,Vector,Thompson SMG,MP5K,PP-19 Bizon,P90"
 		},
@@ -149,7 +145,7 @@
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump45.png"
 			},
 			{
 				"id": "21",
@@ -182,7 +178,6 @@
 		"details": {
 			"id": "17",
 			"name": "Suppressor (SNIPER)",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-sniper.png",
 			"useon": "Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU"
 		},
@@ -243,7 +238,6 @@
 		"details": {
 			"id": "18",
 			"name": "Suppressor (Pistol)",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-pistol.png",
 			"useon": "P92,P1911,R1895,P18C,R45,Sawed-off,Skorpion,Desert Eagle"
 		},
@@ -294,7 +288,6 @@
 		"details": {
 			"id": "19",
 			"name": "Flash Hider (AR)",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flash-hider-ar.png",
 			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,MK47-Mutant,G36C"
 		},
@@ -355,7 +348,6 @@
 		"details": {
 			"id": "20",
 			"name": "Flash Hider (Sniper)",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flash-hider-sniper.png",
 			"useon": "Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU"
 		},
@@ -416,7 +408,6 @@
 		"details": {
 			"id": "21",
 			"name": "Flash Hider (SMG)",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flash-hider-smg.png",
 			"useon": "UZI,UMP45,Vector,Thompson SMG,MP5K,PP-19 Bizon,P90"
 		},
@@ -429,7 +420,7 @@
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump45.png"
 			},
 			{
 				"id": "21",
@@ -462,7 +453,6 @@
 		"details": {
 			"id": "22",
 			"name": "Compensator (AR)",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-ar.png",
 			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,MK47-Mutant,G36C"
 		},
@@ -523,7 +513,6 @@
 		"details": {
 			"id": "23",
 			"name": "Compensator (SMG)",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-smg.png",
 			"useon": "UZI,UMP45,Vector,Thompson SMG,MP5K,PP-19 Bizon,P90"
 		},
@@ -536,7 +525,7 @@
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump45.png"
 			},
 			{
 				"id": "21",
@@ -569,7 +558,6 @@
 		"details": {
 			"id": "24",
 			"name": "Compensator (Sniper)",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-sniper.png",
 			"useon": "Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU"
 		},

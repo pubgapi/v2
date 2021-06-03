@@ -33,7 +33,7 @@
 	{
 		"id": "20",
 		"name": "UMP45",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump45.png",
 		"short_description": "The UMP has been adopted by various agencies such as the U.S. Customs and Border Protection.",
 		"bullet_type": "9mm",
 		"without_mag": "30",

@@ -32,20 +32,16 @@
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
 				},
 				{
-					"name": "Ext. Quickdraw (Pistol)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-pistol.png"
+					"name": "Duckbill",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/duckbill.png"
 				},
 				{
-					"name": "Quickdraw (Pistol)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-pistol.png"
+					"name": "Choke",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/choke.png"
 				},
 				{
-					"name": "Extended (Pistol)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-pistol.png"
-				},
-				{
-					"name": "Suppressor (Pistol)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-pistol.png"
+					"name": "Bulletloop (Shotgun)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-shotgun.png"
 				}
 			]
 		}
@@ -83,20 +79,16 @@
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
 				},
 				{
-					"name": "Ext. Quickdraw (Pistol)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-pistol.png"
+					"name": "Duckbill",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/duckbill.png"
 				},
 				{
-					"name": "Quickdraw (Pistol)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-pistol.png"
+					"name": "Choke",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/choke.png"
 				},
 				{
-					"name": "Extended (Pistol)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-pistol.png"
-				},
-				{
-					"name": "Suppressor (Pistol)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-pistol.png"
+					"name": "Bulletloop (Shotgun)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-shotgun.png"
 				}
 			]
 		}

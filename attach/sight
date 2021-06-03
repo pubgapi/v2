@@ -3,7 +3,6 @@
 		"details": {
 			"id": "52",
 			"name": "Holographic",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png",
 			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU,UZI,UMP45,Vector,Thompson SMG,S686,S1897,S12K,P92,P1911,R1895,P18C,R45,Sawed-off,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Skorpion,Desert Eagle,Crossbow"
 		},
@@ -106,7 +105,7 @@
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump45.png"
 			},
 			{
 				"id": "21",
@@ -214,7 +213,6 @@
 		"details": {
 			"id": "53",
 			"name": "Red Dot",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png",
 			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU,UZI,UMP45,Vector,Thompson SMG,S686,S1897,S12K,P92,P1911,R1895,P18C,R45,Sawed-off,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Skorpion,Desert Eagle,Crossbow"
 		},
@@ -317,7 +315,7 @@
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump45.png"
 			},
 			{
 				"id": "21",
@@ -425,7 +423,6 @@
 		"details": {
 			"id": "54",
 			"name": "2x Scope",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png",
 			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU,UMP45,Vector,S686,S1897,S12K,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Crossbow"
 		},
@@ -523,7 +520,7 @@
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump45.png"
 			},
 			{
 				"id": "21",
@@ -586,7 +583,6 @@
 		"details": {
 			"id": "55",
 			"name": "3x Scope",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png",
 			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU,UMP45,Vector,S686,S1897,S12K,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Crossbow"
 		},
@@ -684,7 +680,7 @@
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump45.png"
 			},
 			{
 				"id": "21",
@@ -747,7 +743,6 @@
 		"details": {
 			"id": "56",
 			"name": "4x Scope",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png",
 			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU,UMP45,Vector,S686,S1897,S12K,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Crossbow"
 		},
@@ -845,7 +840,7 @@
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump45.png"
 			},
 			{
 				"id": "21",
@@ -908,7 +903,6 @@
 		"details": {
 			"id": "57",
 			"name": "6x Scope",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png",
 			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU,UMP45,Vector,S686,S1897,S12K,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Crossbow"
 		},
@@ -1006,7 +1000,7 @@
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump45.png"
 			},
 			{
 				"id": "21",
@@ -1069,7 +1063,6 @@
 		"details": {
 			"id": "58",
 			"name": "8x Scope",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/8x.png",
 			"useon": "QBU,SLR,SKS,Mini 14,AWM,M24,MK14,Kar98K"
 		},

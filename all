@@ -402,7 +402,7 @@
 		"id": "20",
 		"name": "UMP45",
 		"url": "ump45",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump9.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/ump45.png",
 		"short_description": "The UMP has been adopted by various agencies such as the U.S. Customs and Border Protection.",
 		"bullet_type": "9mm",
 		"without_mag": "30",
@@ -714,70 +714,6 @@
 		}
 	},
 	{
-		"id": "35",
-		"name": "Machete",
-		"url": "machete",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/machete.png",
-		"short_description": "",
-		"bullet_type": "None",
-		"without_mag": "",
-		"with_mag": "",
-		"fire_modes": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/single\/machete",
-		"details": {
-			"damage": "60",
-			"capacity": "0"
-		}
-	},
-	{
-		"id": "36",
-		"name": "Crowbar",
-		"url": "crowbar",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/crowbar.png",
-		"short_description": "",
-		"bullet_type": "None",
-		"without_mag": "",
-		"with_mag": "",
-		"fire_modes": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/single\/crowbar",
-		"details": {
-			"damage": "60",
-			"capacity": "0"
-		}
-	},
-	{
-		"id": "37",
-		"name": "Sickle",
-		"url": "sickle",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/sickle.png",
-		"short_description": "",
-		"bullet_type": "None",
-		"without_mag": "",
-		"with_mag": "",
-		"fire_modes": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/single\/sickle",
-		"details": {
-			"damage": "18",
-			"capacity": "0"
-		}
-	},
-	{
-		"id": "38",
-		"name": "Pan",
-		"url": "pan",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/pan.png",
-		"short_description": "",
-		"bullet_type": "None",
-		"without_mag": "",
-		"with_mag": "",
-		"fire_modes": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/single\/pan",
-		"details": {
-			"damage": "80",
-			"capacity": "0"
-		}
-	},
-	{
 		"id": "39",
 		"name": "Crossbow",
 		"url": "crossbow",
@@ -789,74 +725,6 @@
 		"fire_modes": "Single",
 		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/single\/crossbow",
 		"details": null
-	},
-	{
-		"id": "40",
-		"name": "Granade",
-		"url": "granade",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/granade.png",
-		"short_description": "",
-		"bullet_type": "None",
-		"without_mag": "",
-		"with_mag": "",
-		"fire_modes": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/single\/granade",
-		"details": {
-			"throwtime": "1.30s",
-			"friction": "0.62s",
-			"weight": "14"
-		}
-	},
-	{
-		"id": "41",
-		"name": "Moltov",
-		"url": "moltove",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/moltov.png",
-		"short_description": "",
-		"bullet_type": "None",
-		"without_mag": "",
-		"with_mag": "",
-		"fire_modes": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/single\/moltove",
-		"details": {
-			"throwtime": "0.85s",
-			"friction": "20s",
-			"weight": "1"
-		}
-	},
-	{
-		"id": "42",
-		"name": "Smoke Granade",
-		"url": "smoke",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/smoke.png",
-		"short_description": "",
-		"bullet_type": "None",
-		"without_mag": "",
-		"with_mag": "",
-		"fire_modes": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/single\/smoke",
-		"details": {
-			"throwtime": "1.30s",
-			"friction": "0.60s",
-			"weight": "14"
-		}
-	},
-	{
-		"id": "43",
-		"name": "Stun Granade",
-		"url": "stun",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/stun.png",
-		"short_description": "",
-		"bullet_type": "None",
-		"without_mag": "",
-		"with_mag": "",
-		"fire_modes": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/single\/stun",
-		"details": {
-			"throwtime": "1.30s",
-			"friction": "0.80s",
-			"weight": "12"
-		}
 	},
 	{
 		"id": "44",
@@ -898,72 +766,6 @@
 			"ready_delay": "500ms",
 			"normal_reload": "3.8s",
 			"quick_reload": "2.25s"
-		}
-	},
-	{
-		"id": "46",
-		"name": "Punch",
-		"url": "punch",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/punch.png",
-		"short_description": "",
-		"bullet_type": "",
-		"without_mag": "",
-		"with_mag": "",
-		"fire_modes": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/single\/punch",
-		"details": {
-			"damage": "18",
-			"capacity": "0"
-		}
-	},
-	{
-		"id": "47",
-		"name": "Jump Punch",
-		"url": "jump-punch",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/jump-punch.png",
-		"short_description": "",
-		"bullet_type": "",
-		"without_mag": "",
-		"with_mag": "",
-		"fire_modes": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/single\/jump-punch",
-		"details": {
-			"damage": "38",
-			"capacity": "0"
-		}
-	},
-	{
-		"id": "48",
-		"name": "Apple",
-		"url": "apple",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/apple.png",
-		"short_description": "",
-		"bullet_type": "",
-		"without_mag": "",
-		"with_mag": "",
-		"fire_modes": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/single\/apple",
-		"details": {
-			"throwtime": "1.30s",
-			"friction": "0.35s",
-			"weight": "1"
-		}
-	},
-	{
-		"id": "49",
-		"name": "Snow Ball",
-		"url": "snow-ball",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/snow-ball.png",
-		"short_description": "",
-		"bullet_type": "",
-		"without_mag": "",
-		"with_mag": "",
-		"fire_modes": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/single\/snow-ball",
-		"details": {
-			"throwtime": "1.30s",
-			"friction": "0.00s",
-			"weight": "1"
 		}
 	},
 	{

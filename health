@@ -2,9 +2,6 @@
 	{
 		"name": "Adrenaline Syringe",
 		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/adrenaline.png",
-		"short_des": "",
-		"long_des": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/health\/single\/ad-syringe",
 		"url": "ad-syringe",
 		"heals": "100%",
 		"capacity": "20",
@@ -13,9 +10,6 @@
 	{
 		"name": "Pain Killer",
 		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/painkiller.png",
-		"short_des": "",
-		"long_des": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/health\/single\/p-killer",
 		"url": "p-killer",
 		"heals": "60%",
 		"capacity": "10",
@@ -24,9 +18,6 @@
 	{
 		"name": "Energy Drink",
 		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/energy-drink.png",
-		"short_des": "",
-		"long_des": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/health\/single\/e-drink",
 		"url": "e-drink",
 		"heals": "40%",
 		"capacity": "12",
@@ -35,9 +26,6 @@
 	{
 		"name": "First Aid Kit",
 		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/first-aid.png",
-		"short_des": "",
-		"long_des": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/health\/single\/fa-kit",
 		"url": "fa-kit",
 		"heals": "75%",
 		"capacity": "20",
@@ -46,9 +34,6 @@
 	{
 		"name": "MedKit",
 		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/medkit.png",
-		"short_des": "",
-		"long_des": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/health\/single\/m-kit",
 		"url": "m-kit",
 		"heals": "100%",
 		"capacity": "20",
@@ -57,9 +42,6 @@
 	{
 		"name": "Bandage",
 		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bandage.png",
-		"short_des": "",
-		"long_des": "",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/health\/single\/bandage",
 		"url": "bandage",
 		"heals": "10%",
 		"capacity": "10",

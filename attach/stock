@@ -3,7 +3,6 @@
 		"details": {
 			"id": "2",
 			"name": "Bulletloop (Kar98K, Win94)",
-			"short_des": "Increases reload speed by 30%. It also has an unmentioned effect of decreasing the base spread by 50%.",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-kar98k-win94.png",
 			"useon": "Kar98k,Win94"
 		},
@@ -24,7 +23,6 @@
 		"details": {
 			"id": "3",
 			"name": "Bulletloop (Shotgun)",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-shotgun.png",
 			"useon": "S686,S1897,S12K,DBS"
 		},
@@ -55,7 +53,6 @@
 		"details": {
 			"id": "10",
 			"name": "Cheek Pad",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/cheek-pad.png",
 			"useon": "Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU"
 		},
@@ -116,7 +113,6 @@
 		"details": {
 			"id": "11",
 			"name": "Tact Stock",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/tact-stock.png",
 			"useon": "M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,G36C"
 		},
@@ -167,7 +163,6 @@
 		"details": {
 			"id": "12",
 			"name": "Stock Micro",
-			"short_des": "",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/stock-micro.png",
 			"useon": "UZI"
 		},

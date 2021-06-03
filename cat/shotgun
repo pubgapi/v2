@@ -189,6 +189,53 @@
 		}
 	},
 	{
+		"id": "33",
+		"name": "Sawed-off",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/sawed-off.png",
+		"short_description": "",
+		"bullet_type": "12 Gauge",
+		"without_mag": "2",
+		"with_mag": "2",
+		"fire_modes": "Single",
+		"damage": "160",
+		"bullet_speed": "330m\/s",
+		"impact": "N\/A",
+		"pickup_delay": "150ms",
+		"ready_delay": "500ms",
+		"normal_reload": "2s",
+		"quick_reload": "N\/A",
+		"attach": {
+			"bullet": [
+				{
+					"name": "12 Gauge",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/12-gauge.png"
+				}
+			],
+			"attach": [
+				{
+					"name": "Holographic",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+				},
+				{
+					"name": "Red Dot",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+				},
+				{
+					"name": "Duckbill",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/duckbill.png"
+				},
+				{
+					"name": "Choke",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/choke.png"
+				},
+				{
+					"name": "Bulletloop (Shotgun)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-shotgun.png"
+				}
+			]
+		}
+	},
+	{
 		"id": "50",
 		"name": "DBS",
 		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/dbs.png",

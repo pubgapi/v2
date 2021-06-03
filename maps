@@ -6,7 +6,7 @@
 		"url": "erangel",
 		"description": "PUBG's original map, Erangel is an 8x8 island whose terrain ranges from open grasslands to tall mountains, with cities and towns mixed in-between. Two bridges connect the larger portion of the island to Erangel's Military Base, making for a dangerous route to and from the small island.",
 		"btn_order": "1",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/maps\/single\/erangel",
+		"source": "0",
 		"size": "8x8 km",
 		"land_area": "51.47%",
 		"water_area": "48.53%"
@@ -18,7 +18,7 @@
 		"url": "miramar",
 		"description": "Miramar is the traditional 8x8 map size with more of a desert theme. By sheer land mass, it is the biggest map in PUBG with the vast majority of the space being filled by land and a couple of small cities. It's rough terrain means off-road driving is more difficult and the lack of trees make for a sniper's haven.",
 		"btn_order": "2",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/maps\/single\/miramar",
+		"source": "0",
 		"size": "8x8 km",
 		"land_area": "80.59%",
 		"water_area": "19.41%"
@@ -30,7 +30,7 @@
 		"url": "sanhok",
 		"description": "PUBG's smallest map, Sanhok, is a dense island full of trees and hills. Rivers split the island into 3 major sections, so players will have to assess the risks of crossing through water or over one of the island's many bridges. Sanhok's size and available loot lead to a much more hectic and fast-paced battle than traditional PUBG maps.",
 		"btn_order": "3",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/maps\/single\/sanhok",
+		"source": "0",
 		"size": "4x4 km",
 		"land_area": "49.26%",
 		"water_area": "50.74%"
@@ -42,7 +42,7 @@
 		"url": "vikendi",
 		"description": "The snow-covered fields of Vikendi bring a unique new feel to PUBG in this 6x6 map. With frozen bodies of water, special vehicles to traverse the snowy landscapes, and footprints to track your enemies, Vikendi is an entirely different way to experience thrilling PUBG gameplay.",
 		"btn_order": "4",
-		"source": "https://raw.githubusercontent.com/pubgapi/v2/main\/maps\/single\/vikendi",
+		"source": "0",
 		"size": "6x6 km",
 		"land_area": "40.29%",
 		"water_area": "59.71%"
