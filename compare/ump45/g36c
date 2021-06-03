@@ -83,7 +83,7 @@
 		"name": "G36C",
 		"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/g36c.png",
 		"short_description": "",
-		"bullet_type": "",
+		"bullet_type": "5.56mm",
 		"without_mag": "30",
 		"with_mag": "40",
 		"fire_modes": "Single\/Auto",

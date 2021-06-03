@@ -78,6 +78,10 @@
 				{
 					"name": "Bulletloop (Kar98K, Win94)",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-kar98k-win94.png"
+				},
+				{
+					"name": "Cheek Pad",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/cheek-pad.png"
 				}
 			]
 		}
@@ -163,8 +167,8 @@
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-sniper.png"
 				},
 				{
-					"name": "Bulletloop (Kar98K, Win94)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-kar98k-win94.png"
+					"name": "Cheek Pad",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/cheek-pad.png"
 				}
 			]
 		}
@@ -246,8 +250,8 @@
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-sniper.png"
 				},
 				{
-					"name": "Bulletloop (Kar98K, Win94)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-kar98k-win94.png"
+					"name": "Cheek Pad",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/cheek-pad.png"
 				}
 			]
 		}
@@ -327,6 +331,10 @@
 				{
 					"name": "Bulletloop (Kar98K, Win94)",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/bulletloop-kar98k-win94.png"
+				},
+				{
+					"name": "Cheek Pad",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/cheek-pad.png"
 				}
 			]
 		}

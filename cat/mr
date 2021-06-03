@@ -50,6 +50,34 @@
 				{
 					"name": "8x Scope",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/8x.png"
+				},
+				{
+					"name": "Ext. Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-sniper.png"
+				},
+				{
+					"name": "Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-sniper.png"
+				},
+				{
+					"name": "Extended (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-sniper.png"
+				},
+				{
+					"name": "Suppressor (SNIPER)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-sniper.png"
+				},
+				{
+					"name": "Flash Hider (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flash-hider-sniper.png"
+				},
+				{
+					"name": "Compensator (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-sniper.png"
+				},
+				{
+					"name": "Cheek Pad",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/cheek-pad.png"
 				}
 			]
 		}
@@ -79,28 +107,20 @@
 			],
 			"attach": [
 				{
-					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
+					"name": "Ext. Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-sniper.png"
 				},
 				{
-					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
+					"name": "Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-sniper.png"
 				},
 				{
-					"name": "2x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
+					"name": "Extended (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-sniper.png"
 				},
 				{
-					"name": "3x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
-				},
-				{
-					"name": "4x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
-				},
-				{
-					"name": "6x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
+					"name": "Cheek Pad",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/cheek-pad.png"
 				}
 			]
 		}
@@ -156,6 +176,34 @@
 				{
 					"name": "8x Scope",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/8x.png"
+				},
+				{
+					"name": "Ext. Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-sniper.png"
+				},
+				{
+					"name": "Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-sniper.png"
+				},
+				{
+					"name": "Extended (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-sniper.png"
+				},
+				{
+					"name": "Suppressor (SNIPER)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-sniper.png"
+				},
+				{
+					"name": "Flash Hider (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flash-hider-sniper.png"
+				},
+				{
+					"name": "Compensator (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-sniper.png"
+				},
+				{
+					"name": "Cheek Pad",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/cheek-pad.png"
 				}
 			]
 		}
@@ -211,6 +259,34 @@
 				{
 					"name": "8x Scope",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/8x.png"
+				},
+				{
+					"name": "Ext. Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-sniper.png"
+				},
+				{
+					"name": "Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-sniper.png"
+				},
+				{
+					"name": "Extended (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-sniper.png"
+				},
+				{
+					"name": "Suppressor (SNIPER)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-sniper.png"
+				},
+				{
+					"name": "Flash Hider (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flash-hider-sniper.png"
+				},
+				{
+					"name": "Compensator (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-sniper.png"
+				},
+				{
+					"name": "Cheek Pad",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/cheek-pad.png"
 				}
 			]
 		}
@@ -266,6 +342,34 @@
 				{
 					"name": "8x Scope",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/8x.png"
+				},
+				{
+					"name": "Ext. Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-sniper.png"
+				},
+				{
+					"name": "Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-sniper.png"
+				},
+				{
+					"name": "Extended (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-sniper.png"
+				},
+				{
+					"name": "Suppressor (SNIPER)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-sniper.png"
+				},
+				{
+					"name": "Flash Hider (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flash-hider-sniper.png"
+				},
+				{
+					"name": "Compensator (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-sniper.png"
+				},
+				{
+					"name": "Cheek Pad",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/cheek-pad.png"
 				}
 			]
 		}
@@ -321,6 +425,34 @@
 				{
 					"name": "8x Scope",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/8x.png"
+				},
+				{
+					"name": "Ext. Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-sniper.png"
+				},
+				{
+					"name": "Quickdraw (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-sniper.png"
+				},
+				{
+					"name": "Extended (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-sniper.png"
+				},
+				{
+					"name": "Suppressor (SNIPER)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-sniper.png"
+				},
+				{
+					"name": "Flash Hider (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flash-hider-sniper.png"
+				},
+				{
+					"name": "Compensator (Sniper)",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-sniper.png"
+				},
+				{
+					"name": "Cheek Pad",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/cheek-pad.png"
 				}
 			]
 		}

@@ -102,30 +102,6 @@
 				}
 			],
 			"attach": [
-				{
-					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png"
-				},
-				{
-					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png"
-				},
-				{
-					"name": "2x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png"
-				},
-				{
-					"name": "3x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png"
-				},
-				{
-					"name": "4x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png"
-				},
-				{
-					"name": "6x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
-				}
 			]
 		}
 	}

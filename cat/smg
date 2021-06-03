@@ -135,8 +135,16 @@
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-smg.png"
 				},
 				{
-					"name": "Stock Micro",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/stock-micro.png"
+					"name": "Thumb Grip",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/thumb-grip.png"
+				},
+				{
+					"name": "Half Grip",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/half-grip.png"
+				},
+				{
+					"name": "Light Grip",
+					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/light-grip.png"
 				}
 			]
 		}
@@ -212,10 +220,6 @@
 				{
 					"name": "Compensator (SMG)",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-smg.png"
-				},
-				{
-					"name": "Stock Micro",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/stock-micro.png"
 				}
 			]
 		}
@@ -275,10 +279,6 @@
 				{
 					"name": "Compensator (SMG)",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-smg.png"
-				},
-				{
-					"name": "Stock Micro",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/stock-micro.png"
 				}
 			]
 		}
@@ -332,18 +332,6 @@
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
 				},
 				{
-					"name": "Ext. Quickd (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-smg.png"
-				},
-				{
-					"name": "Quickdraw (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-smg.png"
-				},
-				{
-					"name": "Extended (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-smg.png"
-				},
-				{
 					"name": "Suppressor (SMG)",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-smg.png"
 				},
@@ -354,10 +342,6 @@
 				{
 					"name": "Compensator (SMG)",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-smg.png"
-				},
-				{
-					"name": "Stock Micro",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/stock-micro.png"
 				}
 			]
 		}
@@ -411,18 +395,6 @@
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
 				},
 				{
-					"name": "Ext. Quickd (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-smg.png"
-				},
-				{
-					"name": "Quickdraw (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-smg.png"
-				},
-				{
-					"name": "Extended (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-smg.png"
-				},
-				{
 					"name": "Suppressor (SMG)",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-smg.png"
 				},
@@ -433,10 +405,6 @@
 				{
 					"name": "Compensator (SMG)",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-smg.png"
-				},
-				{
-					"name": "Stock Micro",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/stock-micro.png"
 				}
 			]
 		}
@@ -490,18 +458,6 @@
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png"
 				},
 				{
-					"name": "Ext. Quickd (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-quickdraw-mag-smg.png"
-				},
-				{
-					"name": "Quickdraw (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/quickdraw-mag-smg.png"
-				},
-				{
-					"name": "Extended (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/extended-mag-smg.png"
-				},
-				{
 					"name": "Suppressor (SMG)",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-smg.png"
 				},
@@ -512,10 +468,6 @@
 				{
 					"name": "Compensator (SMG)",
 					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-smg.png"
-				},
-				{
-					"name": "Stock Micro",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/stock-micro.png"
 				}
 			]
 		}

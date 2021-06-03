@@ -4,7 +4,7 @@
 			"id": "52",
 			"name": "Holographic",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/holographic.png",
-			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU,UZI,UMP45,Vector,Thompson SMG,S686,S1897,S12K,P92,P1911,R1895,P18C,R45,Sawed-off,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Skorpion,Desert Eagle,Crossbow"
+			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,Mini 14,MK14,SLR,QBU,UZI,UMP45,Vector,Thompson SMG,S686,S1897,S12K,P92,P1911,R1895,P18C,R45,Sawed-off,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Skorpion,Desert Eagle,Crossbow"
 		},
 		"guns": [
 			{
@@ -71,11 +71,6 @@
 				"id": "13",
 				"name": "SKS",
 				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/sks.png"
-			},
-			{
-				"id": "14",
-				"name": "VSS",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/vss.png"
 			},
 			{
 				"id": "15",
@@ -214,7 +209,7 @@
 			"id": "53",
 			"name": "Red Dot",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/red-dot.png",
-			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU,UZI,UMP45,Vector,Thompson SMG,S686,S1897,S12K,P92,P1911,R1895,P18C,R45,Sawed-off,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Skorpion,Desert Eagle,Crossbow"
+			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,Mini 14,MK14,SLR,QBU,UZI,UMP45,Vector,Thompson SMG,S686,S1897,S12K,P92,P1911,R1895,P18C,R45,Sawed-off,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Skorpion,Desert Eagle,Crossbow"
 		},
 		"guns": [
 			{
@@ -281,11 +276,6 @@
 				"id": "13",
 				"name": "SKS",
 				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/sks.png"
-			},
-			{
-				"id": "14",
-				"name": "VSS",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/vss.png"
 			},
 			{
 				"id": "15",
@@ -424,7 +414,7 @@
 			"id": "54",
 			"name": "2x Scope",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/2x.png",
-			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU,UMP45,Vector,S686,S1897,S12K,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Crossbow"
+			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,Mini 14,MK14,SLR,QBU,UMP45,Vector,S686,S1897,S12K,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Crossbow"
 		},
 		"guns": [
 			{
@@ -491,11 +481,6 @@
 				"id": "13",
 				"name": "SKS",
 				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/sks.png"
-			},
-			{
-				"id": "14",
-				"name": "VSS",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/vss.png"
 			},
 			{
 				"id": "15",
@@ -584,7 +569,7 @@
 			"id": "55",
 			"name": "3x Scope",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/3x.png",
-			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU,UMP45,Vector,S686,S1897,S12K,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Crossbow"
+			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,Mini 14,MK14,SLR,QBU,UMP45,Vector,S686,S1897,S12K,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Crossbow"
 		},
 		"guns": [
 			{
@@ -651,11 +636,6 @@
 				"id": "13",
 				"name": "SKS",
 				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/sks.png"
-			},
-			{
-				"id": "14",
-				"name": "VSS",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/vss.png"
 			},
 			{
 				"id": "15",
@@ -744,7 +724,7 @@
 			"id": "56",
 			"name": "4x Scope",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/4x.png",
-			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU,UMP45,Vector,S686,S1897,S12K,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Crossbow"
+			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,Mini 14,MK14,SLR,QBU,UMP45,Vector,S686,S1897,S12K,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Crossbow"
 		},
 		"guns": [
 			{
@@ -811,11 +791,6 @@
 				"id": "13",
 				"name": "SKS",
 				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/sks.png"
-			},
-			{
-				"id": "14",
-				"name": "VSS",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/vss.png"
 			},
 			{
 				"id": "15",
@@ -904,7 +879,7 @@
 			"id": "57",
 			"name": "6x Scope",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/6x.png",
-			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU,UMP45,Vector,S686,S1897,S12K,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Crossbow"
+			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,Kar98K,M24,AWM,Win94,SKS,Mini 14,MK14,SLR,QBU,UMP45,Vector,S686,S1897,S12K,MK47-Mutant,G36C,DBS,MP5K,PP-19 Bizon,P90,Crossbow"
 		},
 		"guns": [
 			{
@@ -971,11 +946,6 @@
 				"id": "13",
 				"name": "SKS",
 				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/sks.png"
-			},
-			{
-				"id": "14",
-				"name": "VSS",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/vss.png"
 			},
 			{
 				"id": "15",

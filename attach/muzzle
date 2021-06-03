@@ -179,7 +179,7 @@
 			"id": "17",
 			"name": "Suppressor (SNIPER)",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/supressor-sniper.png",
-			"useon": "Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU"
+			"useon": "Kar98K,M24,AWM,Win94,SKS,Mini 14,MK14,SLR,QBU"
 		},
 		"guns": [
 			{
@@ -206,11 +206,6 @@
 				"id": "13",
 				"name": "SKS",
 				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/sks.png"
-			},
-			{
-				"id": "14",
-				"name": "VSS",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/vss.png"
 			},
 			{
 				"id": "15",
@@ -349,7 +344,7 @@
 			"id": "20",
 			"name": "Flash Hider (Sniper)",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/flash-hider-sniper.png",
-			"useon": "Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU"
+			"useon": "Kar98K,M24,AWM,Win94,SKS,Mini 14,MK14,SLR,QBU"
 		},
 		"guns": [
 			{
@@ -376,11 +371,6 @@
 				"id": "13",
 				"name": "SKS",
 				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/sks.png"
-			},
-			{
-				"id": "14",
-				"name": "VSS",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/vss.png"
 			},
 			{
 				"id": "15",
@@ -559,7 +549,7 @@
 			"id": "24",
 			"name": "Compensator (Sniper)",
 			"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/compensator-sniper.png",
-			"useon": "Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU"
+			"useon": "Kar98K,M24,AWM,Win94,SKS,Mini 14,MK14,SLR,QBU"
 		},
 		"guns": [
 			{
@@ -586,11 +576,6 @@
 				"id": "13",
 				"name": "SKS",
 				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/sks.png"
-			},
-			{
-				"id": "14",
-				"name": "VSS",
-				"image": "https://raw.githubusercontent.com/pubgapi/v2/main\/images\/all\/vss.png"
 			},
 			{
 				"id": "15",
